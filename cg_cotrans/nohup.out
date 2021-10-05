@@ -1,0 +1,4408 @@
+nohup: /Users/carlosmichelmourradiaz/downloads/Automatic_Saknovich.sh: Permission denied
+nohup: Automatic_Saknovich.sh: No such file or directory
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Ejecucion de todas las secuencias del directorio input_fastas_calc_consensus
+Programas: calc_consensus_contacts.py -> input_fastas_calc_consensus.py -> calc_elongation.py
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\n
+Archivo: d1guda_
+PDB: 1gud
+\n
+Archivo: d1peaa_
+PDB: 1pea
+\n
+Archivo: d1tjya1
+PDB: 1tjy
+\n
+@> 3044 atoms and 1 coordinate set(s) were parsed in 0.03s.
+@> 2793 atoms and 1 coordinate set(s) were parsed in 0.04s.
+@> 4770 atoms and 1 coordinate set(s) were parsed in 0.05s.
+Found 1 chains.
+1gud  92.60
+Using 1 chains with percentid >= 25.
+Number of residues: 311
+Minimum consensus fraction: 0.25
+Total bond energy: 255.1953125
+Writing ./output_input_ALL/d1guda_.dat
+Found 1 chains.
+1tjy  92.35
+Using 1 chains with percentid >= 25.
+Number of residues: 340
+Minimum consensus fraction: 0.25
+Total bond energy: 295.7890625
+Writing ./output_input_ALL/d1tjya1.dat
+Found 1 chains.
+1pea  95.06
+Using 1 chains with percentid >= 25.
+Number of residues: 385
+Minimum consensus fraction: 0.25
+Total bond energy: 333.2421875
+Writing ./output_input_ALL/d1peaa_.dat
+# Polymer: ./output_input_ALL/d1guda_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -23.325
+# Number of residues: 311
+# Number of contacts: 707
+Writing ./output_input_ALL/d1guda_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1tjya1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -25.5
+# Number of residues: 340
+# Number of contacts: 815
+Writing ./output_input_ALL/d1tjya1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1peaa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -28.875
+# Number of residues: 385
+# Number of contacts: 944
+Writing ./output_input_ALL/d1peaa_._abs_energies.dat
+# nresidues = 311
+# Writing d1guda__elongation_profile.dat
+# nresidues = 340
+# Writing d1tjya1_elongation_profile.dat
+# nresidues = 385
+# Writing d1peaa__elongation_profile.dat
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Ejecucion de todas las secuencias del directorio input_fastas_calc_consensus
+Programas: calc_consensus_contacts.py -> input_fastas_calc_consensus.py -> calc_elongation.py
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\n
+Archivo: d1guda_
+PDB: 1gud
+\n
+Archivo: d1htia_
+PDB: 1hti
+\n
+Archivo: d1iq8a1
+PDB: 1iq8
+\n
+Archivo: d1jcna1
+PDB: 1jcn
+\n
+Archivo: d1peaa_
+PDB: 1pea
+\n
+Archivo: d1r30a_
+PDB: 1r30
+\n
+Archivo: d1te6a1
+PDB: 1te6
+\n
+Archivo: d1tjya1
+PDB: 1tjy
+\n
+Archivo: d1xp3a1
+PDB: 1xp3
+\n
+Archivo: d2i14a1
+PDB: 2i14
+\n
+Archivo: d5dria_
+PDB: 5dri
+\n
+@> 6216 atoms and 1 coordinate set(s) were parsed in 0.22s.
+@> 4770 atoms and 1 coordinate set(s) were parsed in 0.27s.
+@> 4982 atoms and 1 coordinate set(s) were parsed in 0.26s.
+@> 3044 atoms and 1 coordinate set(s) were parsed in 0.16s.
+@> 3745 atoms and 1 coordinate set(s) were parsed in 0.16s.
+@> 2793 atoms and 1 coordinate set(s) were parsed in 0.11s.
+@> 9599 atoms and 1 coordinate set(s) were parsed in 0.48s.
+@> 5862 atoms and 1 coordinate set(s) were parsed in 0.20s.
+@> 2528 atoms and 1 coordinate set(s) were parsed in 0.09s.
+@> 7110 atoms and 1 coordinate set(s) were parsed in 0.19s.
+@> 18539 atoms and 1 coordinate set(s) were parsed in 0.61s.
+Found 1 chains.
+1hti  99.60
+Using 1 chains with percentid >= 25.
+Number of residues: 249
+Minimum consensus fraction: 0.25
+Total bond energy: 211.21875
+Writing ./output_input_ALL/d1htia_.dat
+Found 1 chains.
+1xp3  99.33
+Using 1 chains with percentid >= 25.
+Number of residues: 298
+Minimum consensus fraction: 0.25
+Total bond energy: 264.6015625
+Writing ./output_input_ALL/d1xp3a1.dat
+Found 1 chains.
+1gud  92.60
+Using 1 chains with percentid >= 25.
+Number of residues: 311
+Minimum consensus fraction: 0.25
+Total bond energy: 255.1953125
+Writing ./output_input_ALL/d1guda_.dat
+Found 1 chains.
+1r30  90.17
+Using 1 chains with percentid >= 25.
+Number of residues: 346
+Minimum consensus fraction: 0.25
+Total bond energy: 277.03125
+Writing ./output_input_ALL/d1r30a_.dat
+Found 1 chains.
+1tjy  92.35
+Using 1 chains with percentid >= 25.
+Number of residues: 340
+Minimum consensus fraction: 0.25
+Total bond energy: 295.7890625
+Writing ./output_input_ALL/d1tjya1.dat
+Found 1 chains.
+1pea  95.06
+Using 1 chains with percentid >= 25.
+Number of residues: 385
+Minimum consensus fraction: 0.25
+Total bond energy: 333.2421875
+Writing ./output_input_ALL/d1peaa_.dat
+Found 1 chains.
+2i14 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 389
+Minimum consensus fraction: 0.25
+Total bond energy: 330.21875
+Writing ./output_input_ALL/d2i14a1.dat
+Found 1 chains.
+1jcn  75.10
+Using 1 chains with percentid >= 25.
+Number of residues: 514
+Minimum consensus fraction: 0.25
+Total bond energy: 302.2890625
+Writing ./output_input_ALL/d1jcna1.dat
+Found 1 chains.
+1te6  99.54
+Using 1 chains with percentid >= 25.
+Number of residues: 433
+Minimum consensus fraction: 0.25
+Total bond energy: 407.78125
+Writing ./output_input_ALL/d1te6a1.dat
+# Polymer: ./output_input_ALL/d1guda_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -23.325
+# Number of residues: 311
+# Number of contacts: 707
+Writing ./output_input_ALL/d1guda_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1tjya1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -25.5
+# Number of residues: 340
+# Number of contacts: 815
+Writing ./output_input_ALL/d1tjya1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1htia_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -18.675
+# Number of residues: 249
+# Number of contacts: 584
+Writing ./output_input_ALL/d1htia_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1xp3a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -22.349999999999998
+# Number of residues: 298
+# Number of contacts: 735
+Writing ./output_input_ALL/d1xp3a1._abs_energies.dat
+Found 1 chains.
+1iq8  99.14
+Using 1 chains with percentid >= 25.
+Number of residues: 582
+Minimum consensus fraction: 0.25
+Total bond energy: 530.2421875
+Writing ./output_input_ALL/d1iq8a1.dat
+# Polymer: ./output_input_ALL/d1peaa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -28.875
+# Number of residues: 385
+# Number of contacts: 944
+Writing ./output_input_ALL/d1peaa_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1r30a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -25.95
+# Number of residues: 346
+# Number of contacts: 712
+Writing ./output_input_ALL/d1r30a_._abs_energies.dat
+Found 1 chains.
+5dri  95.41
+Using 1 chains with percentid >= 25.
+Number of residues: 741
+Minimum consensus fraction: 0.25
+Total bond energy: 638.015625
+Writing ./output_input_ALL/d5dria_.dat
+# Polymer: ./output_input_ALL/d2i14a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -29.174999999999997
+# Number of residues: 389
+# Number of contacts: 882
+Writing ./output_input_ALL/d2i14a1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1te6a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -32.475
+# Number of residues: 433
+# Number of contacts: 1115
+Writing ./output_input_ALL/d1te6a1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1jcna1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -38.55
+# Number of residues: 514
+# Number of contacts: 833
+Writing ./output_input_ALL/d1jcna1._abs_energies.dat
+# nresidues = 249
+# Writing d1htia__elongation_profile.dat
+# nresidues = 311
+# Writing d1guda__elongation_profile.dat
+# nresidues = 298
+# Writing d1xp3a1_elongation_profile.dat
+# nresidues = 340
+# Writing d1tjya1_elongation_profile.dat
+# nresidues = 346
+# Writing d1r30a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d5dria_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -55.574999999999996
+# Number of residues: 741
+# Number of contacts: 1795
+Writing ./output_input_ALL/d5dria_._abs_energies.dat
+# nresidues = 385
+# Writing d1peaa__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1iq8a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -43.65
+# Number of residues: 582
+# Number of contacts: 1475
+Writing ./output_input_ALL/d1iq8a1._abs_energies.dat
+# nresidues = 389
+# Writing d2i14a1_elongation_profile.dat
+# nresidues = 433
+# Writing d1te6a1_elongation_profile.dat
+# nresidues = 514
+# Writing d1jcna1_elongation_profile.dat
+# nresidues = 582
+# Writing d1iq8a1_elongation_profile.dat
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+# nresidues = 741
+# Writing d5dria__elongation_profile.dat
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Ejecucion de todas las secuencias del directorio input_fastas_calc_consensus
+Programas: calc_consensus_contacts.py -> input_fastas_calc_consensus.py -> calc_elongation.py
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\n
+Archivo: d1ab8a_
+PDB: 1ab8
+\n
+Archivo: d1am9a_
+PDB: 1am9
+\n
+Archivo: d1b77a1
+PDB: 1b77
+\n
+Archivo: d1beda_
+PDB: 1bed
+\n
+Archivo: d1bi5a2
+PDB: 1bi5
+\n
+Archivo: d1buoa_
+PDB: 1buo
+\n
+Archivo: d1c0pa2
+PDB: 1c0p
+\n
+Archivo: d1c9fa_
+PDB: 1c9f
+\n
+Archivo: d1ccza1
+PDB: 1ccz
+\n
+Archivo: d1co4a_
+PDB: 1co4
+\n
+Archivo: d1cuka3
+PDB: 1cuk
+\n
+Archivo: d1cv8a_
+PDB: 1cv8
+\n
+Archivo: d1ddza2
+PDB: 1ddz
+\n
+Archivo: d1deua_
+PDB: 1deu
+\n
+Archivo: d1dg6a_
+PDB: 1dg6
+\n
+Archivo: d1exra_
+PDB: 1exr
+\n
+Archivo: d1f00i1
+PDB: 1f00
+\n
+Archivo: d1f00i3
+PDB: 1f00
+\n
+Archivo: d1fj7a_
+PDB: 1fj7
+\n
+Archivo: d1g0da1
+PDB: 1g0d
+\n
+Archivo: d1g40a1
+PDB: 1g40
+\n
+Archivo: d1gkya_
+PDB: 1gky
+\n
+Archivo: d1go3e1
+PDB: 1go3
+\n
+Archivo: d1gqva_
+PDB: 1gqv
+\n
+Archivo: d1guda_
+PDB: 1gud
+\n
+Archivo: d1hdoa_
+PDB: 1hdo
+\n
+Archivo: d1hh2p4
+PDB: 1hh2
+\n
+Archivo: d1htwa_
+PDB: 1htw
+\n
+Archivo: d1hyoa1
+PDB: 1hyo
+\n
+Archivo: d1hywa_
+PDB: 1hyw
+\n
+Archivo: d1i5za1
+PDB: 1i5z
+\n
+Archivo: d1iapa_
+PDB: 1iap
+\n
+Archivo: d1ifra_
+PDB: 1ifr
+\n
+Archivo: d1ig8a2
+PDB: 1ig8
+\n
+Archivo: d1iv8a1
+PDB: 1iv8
+\n
+Archivo: d1j1ba_
+PDB: 1j1b
+\n
+Archivo: d1j5ja_
+PDB: 1j5j
+\n
+Archivo: d1j6ua3
+PDB: 1j6u
+\n
+Archivo: d1jqga2
+PDB: 1jqg
+\n
+Archivo: d1jz8a5
+PDB: 1jz8
+\n
+Archivo: d1kbla3
+PDB: 1kbl
+\n
+Archivo: d1kbva1
+PDB: 1kbv
+\n
+Archivo: d1kjna_
+PDB: 1kjn
+\n
+Archivo: d1knxa2
+PDB: 1knx
+\n
+Archivo: d1kqka_
+PDB: 1kqk
+\n
+Archivo: d1kwma2
+PDB: 1kwm
+\n
+Archivo: d1kxpd2
+PDB: 1kxp
+\n
+Archivo: d1l0oc_
+PDB: 1l0o
+\n
+Archivo: d1lj9a_
+PDB: 1lj9
+\n
+Archivo: d1lkoa2
+PDB: 1lko
+\n
+Archivo: d1lwha2
+PDB: 1lwh
+\n
+Archivo: d1m2tb1
+PDB: 1m2t
+\n
+Archivo: d1m3ua_
+PDB: 1m3u
+\n
+Archivo: d1m4ua_
+PDB: 1m4u
+\n
+Archivo: d1mg7a2
+PDB: 1mg7
+\n
+Archivo: d1mlaa2
+PDB: 1mla
+\n
+Archivo: d1mpga2
+PDB: 1mpg
+\n
+Archivo: d1mppa_
+PDB: 1mpp
+\n
+Archivo: d1mqea_
+PDB: 1mqe
+\n
+Archivo: d1mtza_
+PDB: 1mtz
+\n
+Archivo: d1n71a_
+PDB: 1n71
+\n
+Archivo: d1nhpa3
+PDB: 1nhp
+\n
+Archivo: d1nija1
+PDB: 1nij
+\n
+Archivo: d1nkla_
+PDB: 1nkl
+\n
+Archivo: d1o9ya_
+PDB: 1o9y
+\n
+Archivo: d1oa0a_
+PDB: 1oa0
+\n
+Archivo: d1oeda_
+PDB: 1oed
+\n
+Archivo: d1of8a_
+PDB: 1of8
+\n
+Archivo: d1omwa1
+PDB: 1omw
+\n
+Archivo: d1ow5a_
+PDB: 1ow5
+\n
+Archivo: d1ox0a2
+PDB: 1ox0
+\n
+Archivo: d1oywa3
+PDB: 1oyw
+\n
+Archivo: d1p65a_
+PDB: 1p65
+\n
+Archivo: d1pb7a_
+PDB: 1pb7
+\n
+Archivo: d1peaa_
+PDB: 1pea
+\n
+Archivo: d1pgva_
+PDB: 1pgv
+\n
+Archivo: d1pkxa1
+PDB: 1pkx
+\n
+Archivo: d1pvza_
+PDB: 1pvz
+\n
+Archivo: d1q9ba_
+PDB: 1q9b
+\n
+Archivo: d1qbaa1
+PDB: 1qba
+\n
+Archivo: d1qgva_
+PDB: 1qgv
+\n
+Archivo: d1qkia2
+PDB: 1qki
+\n
+Archivo: d1qzxa2
+PDB: 1qzx
+\n
+Archivo: d1rf8a_
+PDB: 1rf8
+\n
+Archivo: d1rh6a_
+PDB: 1rh6
+\n
+Archivo: d1rqba1
+PDB: 1rqb
+\n
+Archivo: d1rwta_
+PDB: 1rwt
+\n
+Archivo: d1rwza2
+PDB: 1rwz
+\n
+Archivo: d1ryla_
+PDB: 1ryl
+\n
+Archivo: d1sena_
+PDB: 1sen
+\n
+Archivo: d1sgoa_
+PDB: 1sgo
+\n
+Archivo: d1smpi_
+PDB: 1smp
+\n
+Archivo: d1sq9a_
+PDB: 1sq9
+\n
+Archivo: d1sxjd1
+PDB: 1sxj
+\n
+Archivo: d1t2da2
+PDB: 1t2d
+\n
+Archivo: d1t3qc2
+PDB: 1t3q
+\n
+Archivo: d1t95a2
+PDB: 1t95
+\n
+Archivo: d1tdha3
+PDB: 1tdh
+\n
+Archivo: d1tjva_
+PDB: 1tjv
+\n
+Archivo: d1tjya1
+PDB: 1tjy
+\n
+Archivo: d1tzza1
+PDB: 1tzz
+\n
+Archivo: d1u5pa1
+PDB: 1u5p
+\n
+Archivo: d1ueba1
+PDB: 1ueb
+\n
+Archivo: d1uema_
+PDB: 1uem
+\n
+Archivo: d1uf3a_
+PDB: 1uf3
+\n
+Archivo: d1ujpa_
+PDB: 1ujp
+\n
+Archivo: d1ujra_
+PDB: 1ujr
+\n
+Archivo: d1uk8a_
+PDB: 1uk8
+\n
+Archivo: d1v66a_
+PDB: 1v66
+\n
+Archivo: d1viza_
+PDB: 1viz
+\n
+Archivo: d1vj1a1
+PDB: 1vj1
+\n
+Archivo: d1vm6a3
+PDB: 1vm6
+\n
+Archivo: d1vnsa_
+PDB: 1vns
+\n
+Archivo: d1vyxa_
+PDB: 1vyx
+\n
+Archivo: d1w7ca1
+PDB: 1w7c
+\n
+Archivo: d1wita_
+PDB: 1wit
+\n
+Archivo: d1wv3a2
+PDB: 1wv3
+\n
+Archivo: d1x3aa1
+PDB: 1x3a
+\n
+Archivo: d1x4pa1
+PDB: 1x4p
+\n
+Archivo: d1x4xa1
+PDB: 1x4x
+\n
+Archivo: d1x53a1
+PDB: 1x53
+\n
+Archivo: d1x91a_
+PDB: 1x91
+\n
+Archivo: d1xnea_
+PDB: 1xne
+\n
+Archivo: d1xqua_
+PDB: 1xqu
+\n
+Archivo: d1xy7a_
+PDB: 1xy7
+\n
+Archivo: d1y7ma1
+PDB: 1y7m
+\n
+Archivo: d1z1sa1
+PDB: 1z1s
+\n
+Archivo: d1z6ba1
+PDB: 1z6b
+\n
+Archivo: d1zara1
+PDB: 1zar
+\n
+Archivo: d1zina1
+PDB: 1zin
+\n
+Archivo: d1zt2b1
+PDB: 1zt2
+\n
+Archivo: d2a5yb1
+PDB: 2a5y
+\n
+Archivo: d2aeba_
+PDB: 2aeb
+\n
+Archivo: d2aeea1
+PDB: 2aee
+\n
+Archivo: d2b1xb1
+PDB: 2b1x
+\n
+Archivo: d2b2na1
+PDB: 2b2n
+\n
+Archivo: d2b8ea1
+PDB: 2b8e
+\n
+Archivo: d2b8ta2
+PDB: 2b8t
+\n
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1bed.pdb.gz'
+Archivo: d2bcma_
+PDB: 2bcm
+\n
+Archivo: d2bi0a2
+PDB: 2bi0
+\n
+@> 6011 atoms and 1 coordinate set(s) were parsed in 1.59s.
+@> 1101 atoms and 1 coordinate set(s) were parsed in 0.41s.
+@> 4288 atoms and 1 coordinate set(s) were parsed in 1.62s.
+Archivo: d2bl8a1
+PDB: 2bl8
+\n
+Archivo: d2blla1
+PDB: 2bll
+\n
+Archivo: d2bmoa1
+PDB: 2bmo
+\n
+@> 2885 atoms and 1 coordinate set(s) were parsed in 1.09s.
+Archivo: d2bpa2_
+PDB: 2bpa
+\n
+Archivo: d2btoa2
+PDB: 2bto
+\n
+Archivo: d2bzva_
+PDB: 2bzv
+\n
+@> 3476 atoms and 1 coordinate set(s) were parsed in 1.75s.
+@> 590 atoms and 15 coordinate set(s) were parsed in 1.11s.
+Archivo: d2c5sa1
+PDB: 2c5s
+\n
+@> 1539 atoms and 1 coordinate set(s) were parsed in 0.66s.
+Archivo: d2ccma_
+PDB: 2ccm
+\n
+Archivo: d2cnza_
+PDB: 2cnz
+\n
+@> 1428 atoms and 1 coordinate set(s) were parsed in 0.55s.
+@> 1336 atoms and 20 coordinate set(s) were parsed in 3.06s.
+Archivo: d2cpqa1
+PDB: 2cpq
+\n
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+Archivo: d2e9xd1
+PDB: 2e9x
+\n
+@> 1637 atoms and 1 coordinate set(s) were parsed in 0.53s.
+Archivo: d2euca1
+PDB: 2euc
+\n
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1deu.pdb.gz'
+Archivo: d2ez9a1
+PDB: 2ez9
+\n
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+Archivo: d2f7fa2
+PDB: 2f7f
+\n
+Archivo: d2g50a1
+PDB: 2g50
+\n
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1ddz.pdb.gz'
+@> 3466 atoms and 1 coordinate set(s) were parsed in 1.94s.
+Archivo: d2g7za_
+PDB: 2g7z
+\n
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1dg6.pdb.gz'
+Archivo: d2glia2
+PDB: 2gli
+\n
+Archivo: d2hfgr_
+PDB: 2hfg
+\n
+Archivo: d2hhva1
+PDB: 2hhv
+\n
+Archivo: d2hzqa_
+PDB: 2hzq
+\n
+Archivo: d2i5fa_
+PDB: 2i5f
+\n
+Archivo: d2iiza_
+PDB: 2iiz
+\n
+@> 1328 atoms and 1 coordinate set(s) were parsed in 0.84s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1g0d.pdb.gz'
+Archivo: d2iwna_
+PDB: 2iwn
+\n
+Archivo: d2ix0a3
+PDB: 2ix0
+\n
+@> 2304 atoms and 1 coordinate set(s) were parsed in 0.86s.
+Archivo: d2j7ja1
+PDB: 2j7j
+\n
+@> 2304 atoms and 1 coordinate set(s) were parsed in 0.72s.
+Archivo: d2k5ga1
+PDB: 2k5g
+\n
+@> 3698 atoms and 1 coordinate set(s) were parsed in 1.56s.
+Archivo: d2nn6h3
+PDB: 2nn6
+\n
+@> 1651 atoms and 1 coordinate set(s) were parsed in 0.91s.
+@> 2299 atoms and 1 coordinate set(s) were parsed in 1.43s.
+@> 4695 atoms and 1 coordinate set(s) were parsed in 1.99s.
+@> 3024 atoms and 1 coordinate set(s) were parsed in 1.75s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1hdo.pdb.gz'
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1gud.pdb.gz'
+Archivo: d2nxfa1
+PDB: 2nxf
+\n
+Archivo: d2o9aa_
+PDB: 2o9a
+\n
+@> 1624 atoms and 1 coordinate set(s) were parsed in 0.32s.
+Archivo: d2o9ca2
+PDB: 2o9c
+\n
+@> 990 atoms and 1 coordinate set(s) were parsed in 0.33s.
+@> 3557 atoms and 1 coordinate set(s) were parsed in 1.76s.
+@> 817 atoms and 15 coordinate set(s) were parsed in 1.64s.
+Archivo: d2ooca1
+PDB: 2ooc
+\n
+@> 4289 atoms and 1 coordinate set(s) were parsed in 1.88s.
+Archivo: d2ooda2
+PDB: 2ood
+\n
+Archivo: d2phna_
+PDB: 2phn
+\n
+Archivo: d2r8oa2
+PDB: 2r8o
+\n
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+Archivo: d2rb6a1
+PDB: 2rb6
+\n
+@> 550 atoms and 1 coordinate set(s) were parsed in 0.29s.
+Archivo: d2ri9a_
+PDB: 2ri9
+\n
+@> 1548 atoms and 34 coordinate set(s) were parsed in 6.00s.
+@> 4117 atoms and 1 coordinate set(s) were parsed in 1.69s.
+@> 7330 atoms and 1 coordinate set(s) were parsed in 3.05s.
+Archivo: d2uxqa_
+PDB: 2uxq
+\n
+@> 3387 atoms and 1 coordinate set(s) were parsed in 1.72s.
+Archivo: d2v03a_
+PDB: 2v03
+\n
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 3694 atoms and 1 coordinate set(s) were parsed in 1.55s.
+@> 6218 atoms and 1 coordinate set(s) were parsed in 2.47s.
+Archivo: d2vb1a1
+PDB: 2vb1
+\n
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:914)
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:915)
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:916)
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:917)
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:918)
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:919)
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:920)
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:921)
+@> WARNING SEQADV for chain A: reference database mismatch, expected 'UNP' parsed '' (1JZ8:922)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:923)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:924)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:925)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:926)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:927)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:928)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:929)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:930)
+@> WARNING SEQADV for chain B: reference database mismatch, expected 'UNP' parsed '' (1JZ8:931)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:932)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:933)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:934)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:935)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:936)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:937)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:938)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:939)
+@> WARNING SEQADV for chain C: reference database mismatch, expected 'UNP' parsed '' (1JZ8:940)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:941)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:942)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:943)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:944)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:945)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:946)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:947)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:948)
+@> WARNING SEQADV for chain D: reference database mismatch, expected 'UNP' parsed '' (1JZ8:949)
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+Archivo: d2vkva1
+PDB: 2vkv
+\n
+Archivo: d2vzsa4
+PDB: 2vzs
+\n
+Archivo: d2w21a_
+PDB: 2w21
+\n
+@> 6379 atoms and 1 coordinate set(s) were parsed in 2.85s.
+Archivo: d2w43a_
+PDB: 2w43
+\n
+Archivo: d2wjnm_
+PDB: 2wjn
+\n
+@> 2515 atoms and 1 coordinate set(s) were parsed in 1.13s.
+Archivo: d2yvla_
+PDB: 2yvl
+\n
+Archivo: d2yzha_
+PDB: 2yzh
+\n
+Archivo: d3aaac_
+PDB: 3aaa
+\n
+@> 2736 atoms and 1 coordinate set(s) were parsed in 1.45s.
+@> 1788 atoms and 1 coordinate set(s) were parsed in 1.04s.
+@> 7657 atoms and 1 coordinate set(s) were parsed in 3.53s.
+Archivo: d3b0fa_
+PDB: 3b0f
+\n
+Archivo: d3bexa2
+PDB: 3bex
+\n
+Archivo: d3bgea1
+PDB: 3bge
+\n
+@> 4572 atoms and 1 coordinate set(s) were parsed in 2.18s.
+Archivo: d3bjva_
+PDB: 3bjv
+\n
+@> 6587 atoms and 1 coordinate set(s) were parsed in 3.03s.
+@> 2619 atoms and 1 coordinate set(s) were parsed in 1.07s.
+Archivo: d3bqoa1
+PDB: 3bqo
+\n
+@> 7319 atoms and 1 coordinate set(s) were parsed in 3.23s.
+@> 2559 atoms and 1 coordinate set(s) were parsed in 1.43s.
+Archivo: d3c70a_
+PDB: 3c70
+\n
+@> 2408 atoms and 1 coordinate set(s) were parsed in 1.35s.
+Archivo: d3ci0i1
+PDB: 3ci0
+\n
+Archivo: d3dcxa1
+PDB: 3dcx
+\n
+@> 1590 atoms and 1 coordinate set(s) were parsed in 0.83s.
+Archivo: d3ddoa_
+PDB: 3ddo
+\n
+@> 1238 atoms and 30 coordinate set(s) were parsed in 4.98s.
+Archivo: d3doua_
+PDB: 3dou
+\n
+@> 15834 atoms and 1 coordinate set(s) were parsed in 6.83s.
+Archivo: d3eipa_
+PDB: 3eip
+\n
+@> 4752 atoms and 1 coordinate set(s) were parsed in 2.34s.
+@> 14717 atoms and 1 coordinate set(s) were parsed in 6.94s.
+@> 2864 atoms and 1 coordinate set(s) were parsed in 1.38s.
+Archivo: d3ej9a_
+PDB: 3ej9
+\n
+@> 2507 atoms and 1 coordinate set(s) were parsed in 1.24s.
+@> 7462 atoms and 1 coordinate set(s) were parsed in 3.71s.
+@> 2209 atoms and 1 coordinate set(s) were parsed in 1.04s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+Archivo: d3f1la_
+PDB: 3f1l
+\n
+@> 6138 atoms and 1 coordinate set(s) were parsed in 3.25s.
+@> 6487 atoms and 1 coordinate set(s) were parsed in 2.89s.
+Archivo: d3f4wa_
+PDB: 3f4w
+\n
+Archivo: d3g0ma_
+PDB: 3g0m
+\n
+Archivo: d3khta_
+PDB: 3kht
+\n
+@> 2664 atoms and 1 coordinate set(s) were parsed in 1.26s.
+Archivo: d3mmcb2
+PDB: 3mmc
+\n
+@> 3795 atoms and 1 coordinate set(s) were parsed in 1.71s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1oed.pdb.gz'
+Archivo: d3oaed_
+PDB: 3oae
+\n
+@> 1001 atoms and 1 coordinate set(s) were parsed in 0.60s.
+Archivo: d3qnma_
+PDB: 3qnm
+\n
+Archivo: d3rnqa_
+PDB: 3rnq
+\n
+Archivo: d3sgha_
+PDB: 3sgh
+\n
+@> 918 atoms and 1 coordinate set(s) were parsed in 0.68s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+Archivo: d3snya_
+PDB: 3sny
+\n
+@> 1464 atoms and 1 coordinate set(s) were parsed in 0.76s.
+@> 2487 atoms and 1 coordinate set(s) were parsed in 1.33s.
+Archivo: d3v7ba_
+PDB: 3v7b
+\n
+@> 4774 atoms and 1 coordinate set(s) were parsed in 2.36s.
+@> 1277 atoms and 20 coordinate set(s) were parsed in 3.68s.
+Archivo: d4ubpc1
+PDB: 4ubp
+\n
+@> 3438 atoms and 1 coordinate set(s) were parsed in 2.39s.
+Archivo: d7reqb1
+PDB: 7req
+\n
+@> 379 atoms and 1 coordinate set(s) were parsed in 0.43s.
+@> 8151 atoms and 1 coordinate set(s) were parsed in 3.72s.
+@> 5996 atoms and 1 coordinate set(s) were parsed in 4.17s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 1194 atoms and 1 coordinate set(s) were parsed in 0.91s.
+@> 10516 atoms and 1 coordinate set(s) were parsed in 5.28s.
+@> 3044 atoms and 1 coordinate set(s) were parsed in 1.64s.
+@> 22188 atoms and 1 coordinate set(s) were parsed in 11.13s.
+@> 2222 atoms and 1 coordinate set(s) were parsed in 1.10s.
+@> 37655 atoms and 1 coordinate set(s) were parsed in 17.81s.
+@> 2731 atoms and 1 coordinate set(s) were parsed in 1.28s.
+@> 1657 atoms and 1 coordinate set(s) were parsed in 0.87s.
+@> 4036 atoms and 1 coordinate set(s) were parsed in 2.19s.
+@> 1132 atoms and 1 coordinate set(s) were parsed in 0.78s.
+@> 6698 atoms and 1 coordinate set(s) were parsed in 3.56s.
+@> 3211 atoms and 1 coordinate set(s) were parsed in 1.47s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1t2d.pdb.gz'
+@> 2068 atoms and 1 coordinate set(s) were parsed in 1.21s.
+@> 4535 atoms and 1 coordinate set(s) were parsed in 2.24s.
+@> 386 atoms and 15 coordinate set(s) were parsed in 1.12s.
+@> 14057 atoms and 1 coordinate set(s) were parsed in 7.36s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/1tdh.pdb.gz'
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 3204 atoms and 1 coordinate set(s) were parsed in 1.61s.
+@> 1904 atoms and 1 coordinate set(s) were parsed in 1.08s.
+@> 2149 atoms and 1 coordinate set(s) were parsed in 0.95s.
+@> 18791 atoms and 1 coordinate set(s) were parsed in 9.27s.
+@> 2793 atoms and 1 coordinate set(s) were parsed in 1.68s.
+@> 6155 atoms and 1 coordinate set(s) were parsed in 3.08s.
+@> 2538 atoms and 1 coordinate set(s) were parsed in 1.07s.
+@> 2708 atoms and 1 coordinate set(s) were parsed in 1.45s.
+@> 2139 atoms and 20 coordinate set(s) were parsed in 6.49s.
+@> 5073 atoms and 11 coordinate set(s) were parsed in 8.74s.
+@> 1717 atoms and 20 coordinate set(s) were parsed in 4.70s.
+@> 3700 atoms and 1 coordinate set(s) were parsed in 1.98s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 1432 atoms and 1 coordinate set(s) were parsed in 0.83s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 1218 atoms and 1 coordinate set(s) were parsed in 0.53s.
+@> 983 atoms and 20 coordinate set(s) were parsed in 3.11s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 5029 atoms and 1 coordinate set(s) were parsed in 2.31s.
+@> 1698 atoms and 1 coordinate set(s) were parsed in 1.07s.
+@> 19740 atoms and 1 coordinate set(s) were parsed in 9.31s.
+@> 7534 atoms and 1 coordinate set(s) were parsed in 3.95s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 2034 atoms and 1 coordinate set(s) were parsed in 1.05s.
+@> 1745 atoms and 20 coordinate set(s) were parsed in 5.15s.
+@> 1795 atoms and 1 coordinate set(s) were parsed in 0.91s.
+@> 1336 atoms and 1 coordinate set(s) were parsed in 0.63s.
+@> 14813 atoms and 1 coordinate set(s) were parsed in 7.60s.
+@> 915 atoms and 28 coordinate set(s) were parsed in 3.64s.
+@> 21323 atoms and 1 coordinate set(s) were parsed in 10.20s.
+@> 2646 atoms and 1 coordinate set(s) were parsed in 1.47s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 15287 atoms and 1 coordinate set(s) were parsed in 7.38s.
+@> 29039 atoms and 1 coordinate set(s) were parsed in 14.74s.
+@> 2013 atoms and 1 coordinate set(s) were parsed in 1.08s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 1021 atoms and 20 coordinate set(s) were parsed in 2.95s.
+@> 1575 atoms and 20 coordinate set(s) were parsed in 4.60s.
+@> 31663 atoms and 1 coordinate set(s) were parsed in 15.70s.
+@> 1480 atoms and 20 coordinate set(s) were parsed in 4.27s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 2542 atoms and 1 coordinate set(s) were parsed in 1.30s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 3342 atoms and 1 coordinate set(s) were parsed in 1.45s.
+@> 12272 atoms and 1 coordinate set(s) were parsed in 7.69s.
+@> 1998 atoms and 20 coordinate set(s) were parsed in 5.62s.
+@> 5462 atoms and 1 coordinate set(s) were parsed in 2.35s.
+@> 5747 atoms and 1 coordinate set(s) were parsed in 2.47s.
+@> 6728 atoms and 1 coordinate set(s) were parsed in 3.50s.
+Found 1 chains.
+1q9b  21.08
+No chains selected.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 2233 atoms and 20 coordinate set(s) were parsed in 6.66s.
+@> 8783 atoms and 1 coordinate set(s) were parsed in 4.28s.
+@> 2618 atoms and 1 coordinate set(s) were parsed in 1.30s.
+@> 8730 atoms and 1 coordinate set(s) were parsed in 4.23s.
+@> 1177 atoms and 1 coordinate set(s) were parsed in 0.64s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 9981 atoms and 1 coordinate set(s) were parsed in 4.78s.
+@> 2799 atoms and 1 coordinate set(s) were parsed in 1.48s.
+@> 1474 atoms and 1 coordinate set(s) were parsed in 1.09s.
+@> 6690 atoms and 1 coordinate set(s) were parsed in 3.51s.
+@> 2805 atoms and 1 coordinate set(s) were parsed in 1.35s.
+@> 5298 atoms and 1 coordinate set(s) were parsed in 2.71s.
+@> 3484 atoms and 1 coordinate set(s) were parsed in 2.34s.
+@> 3805 atoms and 1 coordinate set(s) were parsed in 1.83s.
+@> 7451 atoms and 1 coordinate set(s) were parsed in 3.85s.
+@> 1960 atoms and 1 coordinate set(s) were parsed in 0.94s.
+@> 3037 atoms and 1 coordinate set(s) were parsed in 1.60s.
+@> 1325 atoms and 20 coordinate set(s) were parsed in 3.18s.
+@> 5858 atoms and 1 coordinate set(s) were parsed in 4.51s.
+@> 15793 atoms and 1 coordinate set(s) were parsed in 7.66s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 840 atoms and 1 coordinate set(s) were parsed in 0.53s.
+@> 1583 atoms and 1 coordinate set(s) were parsed in 0.77s.
+@> 839 atoms and 1 coordinate set(s) were parsed in 0.32s.
+@> 2609 atoms and 1 coordinate set(s) were parsed in 1.22s.
+@> 962 atoms and 1 coordinate set(s) were parsed in 0.41s.
+@> 2174 atoms and 1 coordinate set(s) were parsed in 1.02s.
+@> 3475 atoms and 1 coordinate set(s) were parsed in 1.36s.
+@> 4347 atoms and 1 coordinate set(s) were parsed in 2.02s.
+@> 5909 atoms and 1 coordinate set(s) were parsed in 2.81s.
+@> 4695 atoms and 1 coordinate set(s) were parsed in 2.32s.
+@> 10254 atoms and 1 coordinate set(s) were parsed in 4.89s.
+@> 11975 atoms and 1 coordinate set(s) were parsed in 5.68s.
+@> 5211 atoms and 1 coordinate set(s) were parsed in 2.22s.
+@> 2889 atoms and 1 coordinate set(s) were parsed in 1.51s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/2ood.pdb.gz'
+@> 972 atoms and 1 coordinate set(s) were parsed in 0.69s.
+@> 2747 atoms and 1 coordinate set(s) were parsed in 1.25s.
+@> 1803 atoms and 1 coordinate set(s) were parsed in 0.75s.
+@> 6422 atoms and 1 coordinate set(s) were parsed in 2.62s.
+@> 4483 atoms and 1 coordinate set(s) were parsed in 2.78s.
+@> 2585 atoms and 1 coordinate set(s) were parsed in 1.34s.
+@> 16858 atoms and 1 coordinate set(s) were parsed in 7.55s.
+@> WARNING SEQADV for chain A: accession code mismatch, expected 'P04483' parsed 'P0ACT4' (2VKV:462)
+@> 2200 atoms and 1 coordinate set(s) were parsed in 1.40s.
+@> 1812 atoms and 1 coordinate set(s) were parsed in 0.76s.
+@> 1754 atoms and 1 coordinate set(s) were parsed in 1.04s.
+@> 5396 atoms and 1 coordinate set(s) were parsed in 2.49s.
+@> 2958 atoms and 20 coordinate set(s) were parsed in 7.64s.
+@> 1248 atoms and 1 coordinate set(s) were parsed in 0.73s.
+@> 3986 atoms and 1 coordinate set(s) were parsed in 1.91s.
+@> 8447 atoms and 1 coordinate set(s) were parsed in 3.78s.
+@> 2813 atoms and 1 coordinate set(s) were parsed in 1.37s.
+@> 14828 atoms and 1 coordinate set(s) were parsed in 6.45s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 200, in <module>
+    print("%s is not an X-ray structure; skipping" % clargs.pdbfile)
+AttributeError: 'Namespace' object has no attribute 'pdbfile'
+@> 11526 atoms and 1 coordinate set(s) were parsed in 4.97s.
+@> 760 atoms and 1 coordinate set(s) were parsed in 0.49s.
+@> 36918 atoms and 1 coordinate set(s) were parsed in 16.09s.
+Found 1 chains.
+1am9   7.15
+No chains selected.
+@> 5621 atoms and 1 coordinate set(s) were parsed in 2.54s.
+@> 8737 atoms and 1 coordinate set(s) were parsed in 3.94s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/3dcx.pdb.gz'
+@> 1874 atoms and 1 coordinate set(s) were parsed in 0.76s.
+@> 10590 atoms and 1 coordinate set(s) were parsed in 5.26s.
+@> 14981 atoms and 1 coordinate set(s) were parsed in 6.18s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/3ddo.pdb.gz'
+@> 3694 atoms and 1 coordinate set(s) were parsed in 1.80s.
+@> 1505 atoms and 1 coordinate set(s) were parsed in 0.71s.
+@> 4302 atoms and 1 coordinate set(s) were parsed in 2.07s.
+@> 1108 atoms and 1 coordinate set(s) were parsed in 0.60s.
+Traceback (most recent call last):
+  File "calc_consensus_contacts.py", line 193, in <module>
+    with gzip.open(pdbfile, 'rt') as f:
+  File "/usr/lib/python3.6/gzip.py", line 53, in open
+    binary_file = GzipFile(filename, gz_mode, compresslevel)
+  File "/usr/lib/python3.6/gzip.py", line 163, in __init__
+    fileobj = self.myfileobj = builtins.open(filename, mode or 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: './input_pdbs_calc_consensus/3dou.pdb.gz'
+@> 4732 atoms and 1 coordinate set(s) were parsed in 2.68s.
+@> 808 atoms and 1 coordinate set(s) were parsed in 0.48s.
+@> 3199 atoms and 1 coordinate set(s) were parsed in 1.65s.
+@> 1178 atoms and 1 coordinate set(s) were parsed in 0.71s.
+@> 13501 atoms and 1 coordinate set(s) were parsed in 5.34s.
+@> 2171 atoms and 1 coordinate set(s) were parsed in 1.42s.
+@> 2473 atoms and 1 coordinate set(s) were parsed in 1.53s.
+@> 2549 atoms and 1 coordinate set(s) were parsed in 1.24s.
+@> 8328 atoms and 1 coordinate set(s) were parsed in 4.28s.
+@> 13324 atoms and 1 coordinate set(s) were parsed in 5.60s.
+@> 17030 atoms and 1 coordinate set(s) were parsed in 7.54s.
+@> 6809 atoms and 1 coordinate set(s) were parsed in 3.06s.
+@> 8905 atoms and 1 coordinate set(s) were parsed in 5.37s.
+Found 1 chains.
+1p65  46.34
+Using 1 chains with percentid >= 25.
+Number of residues: 123
+Minimum consensus fraction: 0.25
+Total bond energy: 36.609375
+Writing ./output_input_ALL/d1p65a_.dat
+@> 22203 atoms and 1 coordinate set(s) were parsed in 9.39s.
+Found 1 chains.
+3b0f   9.73
+No chains selected.
+Found 1 chains.
+1rh6  75.00
+Using 1 chains with percentid >= 25.
+Number of residues: 72
+Minimum consensus fraction: 0.25
+Total bond energy: 37.8828125
+Writing ./output_input_ALL/d1rh6a_.dat
+Found 1 chains.
+1o9y  56.25
+Using 1 chains with percentid >= 25.
+Number of residues: 128
+Minimum consensus fraction: 0.25
+Total bond energy: 41.6328125
+Writing ./output_input_ALL/d1o9ya_.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d1q9ba_.dat'
+Found 1 chains.
+2rb6  75.36
+Using 1 chains with percentid >= 25.
+Number of residues: 69
+Minimum consensus fraction: 0.25
+Total bond energy: 43.5625
+Writing ./output_input_ALL/d2rb6a1.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d1am9a_.dat'
+Found 1 chains.
+2j7j  24.42
+No chains selected.
+Found 1 chains.
+2iwn   4.26
+No chains selected.
+Found 1 chains.
+3ej9  82.89
+Using 1 chains with percentid >= 25.
+Number of residues: 76
+Minimum consensus fraction: 0.25
+Total bond energy: 46.75
+Writing ./output_input_ALL/d3ej9a_.dat
+Found 1 chains.
+1buo  17.98
+No chains selected.
+Found 1 chains.
+1ifr  15.67
+No chains selected.
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d3b0fa_.dat'
+Found 1 chains.
+3sny  14.60
+No chains selected.
+Found 1 chains.
+2bl8  89.32
+Using 1 chains with percentid >= 25.
+Number of residues: 103
+Minimum consensus fraction: 0.25
+Total bond energy: 64.625
+Writing ./output_input_ALL/d2bl8a1.dat
+Found 1 chains.
+3eip  98.82
+Using 1 chains with percentid >= 25.
+Number of residues: 85
+Minimum consensus fraction: 0.25
+Total bond energy: 68.2421875
+Writing ./output_input_ALL/d3eipa_.dat
+# Polymer: ./output_input_ALL/d1rh6a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -5.3999999999999995
+# Number of residues: 72
+# Number of contacts: 90
+Writing ./output_input_ALL/d1rh6a_._abs_energies.dat
+Found 1 chains.
+3ci0  67.48
+Using 1 chains with percentid >= 25.
+Number of residues: 123
+Minimum consensus fraction: 0.25
+Total bond energy: 74.046875
+Writing ./output_input_ALL/d3ci0i1.dat
+# Polymer: ./output_input_ALL/d1p65a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -9.225
+# Number of residues: 123
+# Number of contacts: 92
+Writing ./output_input_ALL/d1p65a_._abs_energies.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d2j7ja1.dat'
+Found 1 chains.
+2ooc  93.75
+Using 1 chains with percentid >= 25.
+Number of residues: 112
+Minimum consensus fraction: 0.25
+Total bond energy: 80.6328125
+Writing ./output_input_ALL/d2ooca1.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d2iwna_.dat'
+Found 1 chains.
+1xqu  45.38
+Using 1 chains with percentid >= 25.
+Number of residues: 119
+Minimum consensus fraction: 0.25
+Total bond energy: 81.4453125
+Writing ./output_input_ALL/d1xqua_.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d1buoa_.dat'
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d1ifra_.dat'
+# Polymer: ./output_input_ALL/d1o9ya_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -9.6
+# Number of residues: 128
+# Number of contacts: 88
+Writing ./output_input_ALL/d1o9ya_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2rb6a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -5.175
+# Number of residues: 69
+# Number of contacts: 82
+Writing ./output_input_ALL/d2rb6a1._abs_energies.dat
+Found 1 chains.
+2euc  88.52
+Using 1 chains with percentid >= 25.
+Number of residues: 122
+Minimum consensus fraction: 0.25
+Total bond energy: 81.6875
+Writing ./output_input_ALL/d2euca1.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d3snya_.dat'
+Found 1 chains.
+4ubp 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 100
+Minimum consensus fraction: 0.25
+Total bond energy: 75.4140625
+Writing ./output_input_ALL/d4ubpc1.dat
+Found 1 chains.
+1xy7  73.49
+Using 1 chains with percentid >= 25.
+Number of residues: 166
+Minimum consensus fraction: 0.25
+Total bond energy: 94.015625
+Writing ./output_input_ALL/d1xy7a_.dat
+# Polymer: ./output_input_ALL/d3ej9a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -5.7
+# Number of residues: 76
+# Number of contacts: 109
+Writing ./output_input_ALL/d3ej9a_._abs_energies.dat
+Found 1 chains.
+1gqv  35.26
+Using 1 chains with percentid >= 25.
+Number of residues: 156
+Minimum consensus fraction: 0.25
+Total bond energy: 103.9453125
+Writing ./output_input_ALL/d1gqva_.dat
+Found 1 chains.
+1sen  77.91
+Using 1 chains with percentid >= 25.
+Number of residues: 172
+Minimum consensus fraction: 0.25
+Total bond energy: 101.234375
+Writing ./output_input_ALL/d1sena_.dat
+Found 1 chains.
+2cnz  72.35
+Using 1 chains with percentid >= 25.
+Number of residues: 170
+Minimum consensus fraction: 0.25
+Total bond energy: 103.3359375
+Writing ./output_input_ALL/d2cnza_.dat
+Found 1 chains.
+2gli  14.01
+No chains selected.
+Found 1 chains.
+1l0o  92.47
+Using 1 chains with percentid >= 25.
+Number of residues: 146
+Minimum consensus fraction: 0.25
+Total bond energy: 127.75
+Writing ./output_input_ALL/d1l0oc_.dat
+Found 1 chains.
+2bcm  86.79
+Using 1 chains with percentid >= 25.
+Number of residues: 159
+Minimum consensus fraction: 0.25
+Total bond energy: 123.0
+Writing ./output_input_ALL/d2bcma_.dat
+Found 1 chains.
+1qgv  91.55
+Using 1 chains with percentid >= 25.
+Number of residues: 142
+Minimum consensus fraction: 0.25
+Total bond energy: 106.84375
+Writing ./output_input_ALL/d1qgva_.dat
+Found 1 chains.
+1exr  95.17
+Using 1 chains with percentid >= 25.
+Number of residues: 145
+Minimum consensus fraction: 0.25
+Total bond energy: 110.34375
+Writing ./output_input_ALL/d1exra_.dat
+Found 1 chains.
+2vb1  87.76
+Using 1 chains with percentid >= 25.
+Number of residues: 147
+Minimum consensus fraction: 0.25
+Total bond energy: 109.6953125
+Writing ./output_input_ALL/d2vb1a1.dat
+Found 1 chains.
+2i5f  28.00
+Using 1 chains with percentid >= 25.
+Number of residues: 350
+Minimum consensus fraction: 0.25
+Total bond energy: 89.1171875
+Writing ./output_input_ALL/d2i5fa_.dat
+# nresidues = 69
+# Writing d2rb6a1_elongation_profile.dat
+Found 1 chains.
+1lj9  96.00
+Using 1 chains with percentid >= 25.
+Number of residues: 150
+Minimum consensus fraction: 0.25
+Total bond energy: 122.859375
+Writing ./output_input_ALL/d1lj9a_.dat
+# nresidues = 72
+# Writing d1rh6a__elongation_profile.dat
+Found 1 chains.
+1z1s  91.49
+Using 1 chains with percentid >= 25.
+Number of residues: 141
+Minimum consensus fraction: 0.25
+Total bond energy: 122.6953125
+Writing ./output_input_ALL/d1z1sa1.dat
+# Polymer: ./output_input_ALL/d2bl8a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -7.725
+# Number of residues: 103
+# Number of contacts: 182
+Writing ./output_input_ALL/d2bl8a1._abs_energies.dat
+Found 1 chains.
+3kht  89.19
+Using 1 chains with percentid >= 25.
+Number of residues: 148
+Minimum consensus fraction: 0.25
+Total bond energy: 111.6796875
+Writing ./output_input_ALL/d3khta_.dat
+Found 1 chains.
+1kjn  96.82
+Using 1 chains with percentid >= 25.
+Number of residues: 157
+Minimum consensus fraction: 0.25
+Total bond energy: 132.7890625
+Writing ./output_input_ALL/d1kjna_.dat
+Found 1 chains.
+1x91  84.09
+Using 1 chains with percentid >= 25.
+Number of residues: 176
+Minimum consensus fraction: 0.25
+Total bond energy: 121.0
+Writing ./output_input_ALL/d1x91a_.dat
+# Polymer: ./output_input_ALL/d3ci0i1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -9.225
+# Number of residues: 123
+# Number of contacts: 172
+Writing ./output_input_ALL/d3ci0i1._abs_energies.dat
+# Polymer: ./output_input_ALL/d3eipa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -6.375
+# Number of residues: 85
+# Number of contacts: 165
+Writing ./output_input_ALL/d3eipa_._abs_energies.dat
+Found 1 chains.
+1ab8  15.87
+No chains selected.
+Found 1 chains.
+1go3  94.65
+Using 1 chains with percentid >= 25.
+Number of residues: 187
+Minimum consensus fraction: 0.25
+Total bond energy: 159.9140625
+Writing ./output_input_ALL/d1go3e1.dat
+Found 1 chains.
+3rnq  38.19
+Using 1 chains with percentid >= 25.
+Number of residues: 288
+Minimum consensus fraction: 0.25
+Total bond energy: 106.125
+Writing ./output_input_ALL/d3rnqa_.dat
+Found 1 chains.
+3g0m 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 138
+Minimum consensus fraction: 0.25
+Total bond energy: 99.03125
+Writing ./output_input_ALL/d3g0ma_.dat
+# nresidues = 123
+# Writing d1p65a__elongation_profile.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d2glia2.dat'
+Found 1 chains.
+1z6b  61.74
+Using 1 chains with percentid >= 25.
+Number of residues: 230
+Minimum consensus fraction: 0.25
+Total bond energy: 139.5078125
+Writing ./output_input_ALL/d1z6ba1.dat
+Found 1 chains.
+1htw 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 158
+Minimum consensus fraction: 0.25
+Total bond energy: 133.7265625
+Writing ./output_input_ALL/d1htwa_.dat
+Found 1 chains.
+2e9x  63.72
+Using 1 chains with percentid >= 25.
+Number of residues: 226
+Minimum consensus fraction: 0.25
+Total bond energy: 111.6796875
+Writing ./output_input_ALL/d2e9xd1.dat
+Found 1 chains.
+3v7b  99.32
+Using 1 chains with percentid >= 25.
+Number of residues: 148
+Minimum consensus fraction: 0.25
+Total bond energy: 131.0078125
+Writing ./output_input_ALL/d3v7ba_.dat
+# Polymer: ./output_input_ALL/d2ooca1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -8.4
+# Number of residues: 112
+# Number of contacts: 231
+Writing ./output_input_ALL/d2ooca1._abs_energies.dat
+# Polymer: ./output_input_ALL/d4ubpc1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -7.5
+# Number of residues: 100
+# Number of contacts: 218
+Writing ./output_input_ALL/d4ubpc1._abs_energies.dat
+Found 1 chains.
+3bjv  96.89
+Using 1 chains with percentid >= 25.
+Number of residues: 161
+Minimum consensus fraction: 0.25
+Total bond energy: 123.4140625
+Writing ./output_input_ALL/d3bjva_.dat
+# nresidues = 76
+# Writing d3ej9a__elongation_profile.dat
+Found 1 chains.
+1ryl  94.01
+Using 1 chains with percentid >= 25.
+Number of residues: 167
+Minimum consensus fraction: 0.25
+Total bond energy: 140.1171875
+Writing ./output_input_ALL/d1ryla_.dat
+Found 1 chains.
+1cuk  92.61
+Using 1 chains with percentid >= 25.
+Number of residues: 203
+Minimum consensus fraction: 0.25
+Total bond energy: 143.1484375
+Writing ./output_input_ALL/d1cuka3.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d1ab8a_.dat'
+# Polymer: ./output_input_ALL/d2euca1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -9.15
+# Number of residues: 122
+# Number of contacts: 242
+Writing ./output_input_ALL/d2euca1._abs_energies.dat
+Found 1 chains.
+1wv3  12.58
+No chains selected.
+Found 1 chains.
+1t3q  96.43
+Using 1 chains with percentid >= 25.
+Number of residues: 168
+Minimum consensus fraction: 0.25
+Total bond energy: 122.2578125
+Writing ./output_input_ALL/d1t3qc2.dat
+Found 1 chains.
+1y7m  98.17
+Using 1 chains with percentid >= 25.
+Number of residues: 164
+Minimum consensus fraction: 0.25
+Total bond energy: 143.2265625
+Writing ./output_input_ALL/d1y7ma1.dat
+Found 1 chains.
+1mqe  90.34
+Using 1 chains with percentid >= 25.
+Number of residues: 207
+Minimum consensus fraction: 0.25
+Total bond energy: 168.578125
+Writing ./output_input_ALL/d1mqea_.dat
+Found 1 chains.
+1ccz  42.00
+Using 1 chains with percentid >= 25.
+Number of residues: 250
+Minimum consensus fraction: 0.25
+Total bond energy: 135.875
+Writing ./output_input_ALL/d1ccza1.dat
+# nresidues = 128
+# Writing d1o9ya__elongation_profile.dat
+Found 1 chains.
+2hzq  84.13
+Using 1 chains with percentid >= 25.
+Number of residues: 189
+Minimum consensus fraction: 0.25
+Total bond energy: 145.9296875
+Writing ./output_input_ALL/d2hzqa_.dat
+# Polymer: ./output_input_ALL/d1xqua_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -8.924999999999999
+# Number of residues: 119
+# Number of contacts: 216
+Writing ./output_input_ALL/d1xqua_._abs_energies.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d1wv3a2.dat'
+Found 1 chains.
+2yzh 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 169
+Minimum consensus fraction: 0.25
+Total bond energy: 147.71875
+Writing ./output_input_ALL/d2yzha_.dat
+# Polymer: ./output_input_ALL/d2vb1a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -11.025
+# Number of residues: 147
+# Number of contacts: 297
+Writing ./output_input_ALL/d2vb1a1._abs_energies.dat
+Found 1 chains.
+1n71  98.35
+Using 1 chains with percentid >= 25.
+Number of residues: 182
+Minimum consensus fraction: 0.25
+Total bond energy: 161.7109375
+Writing ./output_input_ALL/d1n71a_.dat
+Found 1 chains.
+1ueb 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 184
+Minimum consensus fraction: 0.25
+Total bond energy: 159.875
+Writing ./output_input_ALL/d1ueba1.dat
+# Polymer: ./output_input_ALL/d1lj9a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -11.25
+# Number of residues: 150
+# Number of contacts: 302
+Writing ./output_input_ALL/d1lj9a_._abs_energies.dat
+# nresidues = 85
+# Writing d3eipa__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1gqva_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -11.7
+# Number of residues: 156
+# Number of contacts: 276
+Writing ./output_input_ALL/d1gqva_._abs_energies.dat
+Found 1 chains.
+1iap  20.83
+No chains selected.
+Found 1 chains.
+2bzv  37.73
+Using 1 chains with percentid >= 25.
+Number of residues: 387
+Minimum consensus fraction: 0.25
+Total bond energy: 140.6875
+Writing ./output_input_ALL/d2bzva_.dat
+Found 1 chains.
+1g40  92.40
+Using 1 chains with percentid >= 25.
+Number of residues: 263
+Minimum consensus fraction: 0.25
+Total bond energy: 151.0625
+Writing ./output_input_ALL/d1g40a1.dat
+Found 1 chains.
+1gky  99.47
+Using 1 chains with percentid >= 25.
+Number of residues: 187
+Minimum consensus fraction: 0.25
+Total bond energy: 144.328125
+Writing ./output_input_ALL/d1gkya_.dat
+Found 1 chains.
+1lko  99.48
+Using 1 chains with percentid >= 25.
+Number of residues: 191
+Minimum consensus fraction: 0.25
+Total bond energy: 171.3125
+Writing ./output_input_ALL/d1lkoa2.dat
+# Polymer: ./output_input_ALL/d1exra_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -10.875
+# Number of residues: 145
+# Number of contacts: 302
+Writing ./output_input_ALL/d1exra_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2cnza_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -12.75
+# Number of residues: 170
+# Number of contacts: 232
+Writing ./output_input_ALL/d2cnza_._abs_energies.dat
+# Polymer: ./output_input_ALL/d3khta_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -11.1
+# Number of residues: 148
+# Number of contacts: 286
+Writing ./output_input_ALL/d3khta_._abs_energies.dat
+Found 1 chains.
+2a5y  60.71
+Using 1 chains with percentid >= 25.
+Number of residues: 280
+Minimum consensus fraction: 0.25
+Total bond energy: 135.296875
+Writing ./output_input_ALL/d2a5yb1.dat
+Found 1 chains.
+2o9a  64.60
+Using 1 chains with percentid >= 25.
+Number of residues: 274
+Minimum consensus fraction: 0.25
+Total bond energy: 161.6328125
+Writing ./output_input_ALL/d2o9aa_.dat
+Found 1 chains.
+1m4u  85.34
+Using 1 chains with percentid >= 25.
+Number of residues: 232
+Minimum consensus fraction: 0.25
+Total bond energy: 136.046875
+Writing ./output_input_ALL/d1m4ua_.dat
+# Polymer: ./output_input_ALL/d2bcma_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -11.924999999999999
+# Number of residues: 159
+# Number of contacts: 263
+Writing ./output_input_ALL/d2bcma_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1z1sa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -10.575
+# Number of residues: 141
+# Number of contacts: 287
+Writing ./output_input_ALL/d1z1sa1._abs_energies.dat
+Found 1 chains.
+2hfg   9.07
+No chains selected.
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d1iapa_.dat'
+# nresidues = 103
+# Writing d2bl8a1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1sena_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -12.9
+# Number of residues: 172
+# Number of contacts: 297
+Writing ./output_input_ALL/d1sena_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1qgva_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -10.65
+# Number of residues: 142
+# Number of contacts: 281
+Writing ./output_input_ALL/d1qgva_._abs_energies.dat
+Found 1 chains.
+3bge  36.32
+Using 1 chains with percentid >= 25.
+Number of residues: 446
+Minimum consensus fraction: 0.25
+Total bond energy: 126.625
+Writing ./output_input_ALL/d3bgea1.dat
+Found 1 chains.
+2ccm  99.48
+Using 1 chains with percentid >= 25.
+Number of residues: 191
+Minimum consensus fraction: 0.25
+Total bond energy: 158.5390625
+Writing ./output_input_ALL/d2ccma_.dat
+# Polymer: ./output_input_ALL/d3g0ma_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -10.35
+# Number of residues: 138
+# Number of contacts: 299
+Writing ./output_input_ALL/d3g0ma_._abs_energies.dat
+Found 1 chains.
+2b8t  90.99
+Using 1 chains with percentid >= 25.
+Number of residues: 222
+Minimum consensus fraction: 0.25
+Total bond energy: 147.96875
+Writing ./output_input_ALL/d2b8ta2.dat
+Found 1 chains.
+1pgv  42.60
+Using 1 chains with percentid >= 25.
+Number of residues: 392
+Minimum consensus fraction: 0.25
+Total bond energy: 151.7109375
+Writing ./output_input_ALL/d1pgva_.dat
+Found 1 chains.
+1u5p  37.04
+Using 1 chains with percentid >= 25.
+Number of residues: 27
+Minimum consensus fraction: 0.25
+Total bond energy: 20.4375
+Writing ./output_input_ALL/d1u5pa1.dat
+Found 1 chains.
+1cv8  44.33
+Using 1 chains with percentid >= 25.
+Number of residues: 388
+Minimum consensus fraction: 0.25
+Total bond energy: 155.6953125
+Writing ./output_input_ALL/d1cv8a_.dat
+Found 1 chains.
+1rwt  82.02
+Using 1 chains with percentid >= 25.
+Number of residues: 267
+Minimum consensus fraction: 0.25
+Total bond energy: 149.125
+Writing ./output_input_ALL/d1rwta_.dat
+Found 1 chains.
+2aee  97.61
+Using 1 chains with percentid >= 25.
+Number of residues: 209
+Minimum consensus fraction: 0.25
+Total bond energy: 181.6015625
+Writing ./output_input_ALL/d2aeea1.dat
+Found 1 chains.
+1b77 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 228
+Minimum consensus fraction: 0.25
+Total bond energy: 193.1015625
+Writing ./output_input_ALL/d1b77a1.dat
+Found 1 chains.
+1t95  98.29
+Using 1 chains with percentid >= 25.
+Number of residues: 234
+Minimum consensus fraction: 0.25
+Total bond energy: 194.5859375
+Writing ./output_input_ALL/d1t95a2.dat
+Found 1 chains.
+1i5z  98.57
+Using 1 chains with percentid >= 25.
+Number of residues: 210
+Minimum consensus fraction: 0.25
+Total bond energy: 183.3984375
+Writing ./output_input_ALL/d1i5za1.dat
+# Polymer: ./output_input_ALL/d2i5fa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -26.25
+# Number of residues: 350
+# Number of contacts: 198
+Writing ./output_input_ALL/d2i5fa_._abs_energies.dat
+# Polymer: ./output_input_ALL/d3v7ba_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -11.1
+# Number of residues: 148
+# Number of contacts: 328
+Writing ./output_input_ALL/d3v7ba_._abs_energies.dat
+Found 1 chains.
+3f4w 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 211
+Minimum consensus fraction: 0.25
+Total bond energy: 182.1015625
+Writing ./output_input_ALL/d3f4wa_.dat
+# Polymer: ./output_input_ALL/d1x91a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -13.2
+# Number of residues: 176
+# Number of contacts: 350
+Writing ./output_input_ALL/d1x91a_._abs_energies.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d2hfgr_.dat'
+Found 1 chains.
+1vm6  99.54
+Using 1 chains with percentid >= 25.
+Number of residues: 216
+Minimum consensus fraction: 0.25
+Total bond energy: 189.8515625
+Writing ./output_input_ALL/d1vm6a3.dat
+# Polymer: ./output_input_ALL/d2e9xd1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -16.95
+# Number of residues: 226
+# Number of contacts: 291
+Writing ./output_input_ALL/d2e9xd1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1l0oc_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -10.95
+# Number of residues: 146
+# Number of contacts: 298
+Writing ./output_input_ALL/d1l0oc_._abs_energies.dat
+Found 1 chains.
+2vkv  65.70
+Using 1 chains with percentid >= 25.
+Number of residues: 207
+Minimum consensus fraction: 0.25
+Total bond energy: 151.25
+Writing ./output_input_ALL/d2vkva1.dat
+Found 1 chains.
+2w43  99.50
+Using 1 chains with percentid >= 25.
+Number of residues: 201
+Minimum consensus fraction: 0.25
+Total bond energy: 172.1875
+Writing ./output_input_ALL/d2w43a_.dat
+# Polymer: ./output_input_ALL/d3bjva_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -12.075
+# Number of residues: 161
+# Number of contacts: 354
+Writing ./output_input_ALL/d3bjva_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1u5pa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -2.025
+# Number of residues: 27
+# Number of contacts: 46
+Writing ./output_input_ALL/d1u5pa1._abs_energies.dat
+Found 1 chains.
+1zin 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 217
+Minimum consensus fraction: 0.25
+Total bond energy: 183.4453125
+Writing ./output_input_ALL/d1zina1.dat
+# Polymer: ./output_input_ALL/d3rnqa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -21.599999999999998
+# Number of residues: 288
+# Number of contacts: 244
+Writing ./output_input_ALL/d3rnqa_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1xy7a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -12.45
+# Number of residues: 166
+# Number of contacts: 230
+Writing ./output_input_ALL/d1xy7a_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1kjna_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -11.775
+# Number of residues: 157
+# Number of contacts: 350
+Writing ./output_input_ALL/d1kjna_._abs_energies.dat
+# nresidues = 123
+# Writing d3ci0i1_elongation_profile.dat
+# nresidues = 27
+# Writing d1u5pa1_elongation_profile.dat
+Found 1 chains.
+1viz  56.49
+Using 1 chains with percentid >= 25.
+Number of residues: 239
+Minimum consensus fraction: 0.25
+Total bond energy: 207.9375
+Writing ./output_input_ALL/d1viza_.dat
+# Polymer: ./output_input_ALL/d1ryla_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -12.525
+# Number of residues: 167
+# Number of contacts: 364
+Writing ./output_input_ALL/d1ryla_._abs_energies.dat
+Found 1 chains.
+3qnm  25.65
+Using 1 chains with percentid >= 25.
+Number of residues: 230
+Minimum consensus fraction: 0.25
+Total bond energy: 195.0703125
+Writing ./output_input_ALL/d3qnma_.dat
+Found 1 chains.
+3bqo  46.01
+Using 1 chains with percentid >= 25.
+Number of residues: 439
+Minimum consensus fraction: 0.25
+Total bond energy: 164.1953125
+Writing ./output_input_ALL/d3bqoa1.dat
+# Polymer: ./output_input_ALL/d1ccza1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -18.75
+# Number of residues: 250
+# Number of contacts: 307
+Writing ./output_input_ALL/d1ccza1._abs_energies.dat
+# nresidues = 100
+# Writing d4ubpc1_elongation_profile.dat
+Found 1 chains.
+1ujp  87.82
+Using 1 chains with percentid >= 25.
+Number of residues: 271
+Minimum consensus fraction: 0.25
+Total bond energy: 212.875
+Writing ./output_input_ALL/d1ujpa_.dat
+# Polymer: ./output_input_ALL/d1z6ba1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -17.25
+# Number of residues: 230
+# Number of contacts: 314
+Writing ./output_input_ALL/d1z6ba1._abs_energies.dat
+Found 1 chains.
+1uf3 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 228
+Minimum consensus fraction: 0.25
+Total bond energy: 226.2265625
+Writing ./output_input_ALL/d1uf3a_.dat
+# Polymer: ./output_input_ALL/d1y7ma1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -12.299999999999999
+# Number of residues: 164
+# Number of contacts: 358
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 176, in <module>
+    clargs.mu, clargs.ndim, clargs.kuhnlength, dF=dF)
+  File "calc_absolute_energies.py", line 114, in calc_beta
+    return minimize_beta_fm(beta)
+  File "calc_absolute_energies.py", line 112, in minimize_beta_fm
+    return scipy.optimize.brentq(fe_diff_fm, 0.95 * guess, 1.05 * guess, xtol=xtol)
+  File "/home/cmourra/.local/lib/python3.6/site-packages/scipy/optimize/zeros.py", line 776, in brentq
+    r = _zeros._brentq(f, a, b, xtol, rtol, maxiter, args, full_output, disp)
+ValueError: f(a) and f(b) must have different signs
+# Polymer: ./output_input_ALL/d1mqea_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -15.524999999999999
+# Number of residues: 207
+# Number of contacts: 387
+Writing ./output_input_ALL/d1mqea_._abs_energies.dat
+Found 1 chains.
+2phn 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 249
+Minimum consensus fraction: 0.25
+Total bond energy: 195.6953125
+Writing ./output_input_ALL/d2phna_.dat
+Found 1 chains.
+2w21  66.76
+Using 1 chains with percentid >= 25.
+Number of residues: 367
+Minimum consensus fraction: 0.25
+Total bond energy: 207.421875
+Writing ./output_input_ALL/d2w21a_.dat
+# Polymer: ./output_input_ALL/d1go3e1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -14.025
+# Number of residues: 187
+# Number of contacts: 367
+Writing ./output_input_ALL/d1go3e1._abs_energies.dat
+Found 1 chains.
+3f1l  97.22
+Using 1 chains with percentid >= 25.
+Number of residues: 252
+Minimum consensus fraction: 0.25
+Total bond energy: 220.078125
+Writing ./output_input_ALL/d3f1la_.dat
+Found 1 chains.
+1rwz  99.59
+Using 1 chains with percentid >= 25.
+Number of residues: 245
+Minimum consensus fraction: 0.25
+Total bond energy: 233.421875
+Writing ./output_input_ALL/d1rwza2.dat
+# Polymer: ./output_input_ALL/d1htwa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -11.85
+# Number of residues: 158
+# Number of contacts: 342
+Writing ./output_input_ALL/d1htwa_._abs_energies.dat
+Found 1 chains.
+3bex  99.19
+Using 1 chains with percentid >= 25.
+Number of residues: 246
+Minimum consensus fraction: 0.25
+Total bond energy: 209.328125
+Writing ./output_input_ALL/d3bexa2.dat
+# Polymer: ./output_input_ALL/d1t3qc2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -12.6
+# Number of residues: 168
+# Number of contacts: 352
+Writing ./output_input_ALL/d1t3qc2._abs_energies.dat
+Found 1 chains.
+2yvl  99.60
+Using 1 chains with percentid >= 25.
+Number of residues: 248
+Minimum consensus fraction: 0.25
+Total bond energy: 219.5859375
+Writing ./output_input_ALL/d2yvla_.dat
+Found 1 chains.
+1m3u  99.24
+Using 1 chains with percentid >= 25.
+Number of residues: 264
+Minimum consensus fraction: 0.25
+Total bond energy: 237.4453125
+Writing ./output_input_ALL/d1m3ua_.dat
+# Polymer: ./output_input_ALL/d2a5yb1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -21.0
+# Number of residues: 280
+# Number of contacts: 378
+Writing ./output_input_ALL/d2a5yb1._abs_energies.dat
+# nresidues = 112
+# Writing d2ooca1_elongation_profile.dat
+Found 1 chains.
+1knx  99.36
+Using 1 chains with percentid >= 25.
+Number of residues: 312
+Minimum consensus fraction: 0.25
+Total bond energy: 263.6328125
+Writing ./output_input_ALL/d1knxa2.dat
+Found 1 chains.
+3c70  99.61
+Using 1 chains with percentid >= 25.
+Number of residues: 257
+Minimum consensus fraction: 0.25
+Total bond energy: 226.4375
+Writing ./output_input_ALL/d3c70a_.dat
+Found 1 chains.
+3aaa  93.36
+Using 1 chains with percentid >= 25.
+Number of residues: 286
+Minimum consensus fraction: 0.25
+Total bond energy: 240.0234375
+Writing ./output_input_ALL/d3aaac_.dat
+# Polymer: ./output_input_ALL/d2hzqa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -14.174999999999999
+# Number of residues: 189
+# Number of contacts: 343
+Writing ./output_input_ALL/d2hzqa_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2ccma_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -14.325
+# Number of residues: 191
+# Number of contacts: 450
+Writing ./output_input_ALL/d2ccma_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1gkya_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -14.025
+# Number of residues: 187
+# Number of contacts: 394
+Writing ./output_input_ALL/d1gkya_._abs_energies.dat
+Found 1 chains.
+2g7z  19.88
+No chains selected.
+# Polymer: ./output_input_ALL/d2vkva1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -15.524999999999999
+# Number of residues: 207
+# Number of contacts: 435
+Writing ./output_input_ALL/d2vkva1._abs_energies.dat
+Found 1 chains.
+1uk8  95.74
+Using 1 chains with percentid >= 25.
+Number of residues: 282
+Minimum consensus fraction: 0.25
+Total bond energy: 245.2421875
+Writing ./output_input_ALL/d1uk8a_.dat
+# Polymer: ./output_input_ALL/d2aeea1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -15.674999999999999
+# Number of residues: 209
+# Number of contacts: 488
+Writing ./output_input_ALL/d2aeea1._abs_energies.dat
+# nresidues = 122
+# Writing d2euca1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d2yzha_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -12.674999999999999
+# Number of residues: 169
+# Number of contacts: 379
+Writing ./output_input_ALL/d2yzha_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1pgva_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -29.4
+# Number of residues: 392
+# Number of contacts: 382
+Writing ./output_input_ALL/d1pgva_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1ueba1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -13.799999999999999
+# Number of residues: 184
+# Number of contacts: 379
+Writing ./output_input_ALL/d1ueba1._abs_energies.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d2g7za_.dat'
+Found 1 chains.
+1mpg 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 282
+Minimum consensus fraction: 0.25
+Total bond energy: 235.9375
+Writing ./output_input_ALL/d1mpga2.dat
+# Polymer: ./output_input_ALL/d1m4ua_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -17.4
+# Number of residues: 232
+# Number of contacts: 330
+Writing ./output_input_ALL/d1m4ua_._abs_energies.dat
+Found 1 chains.
+1kxp  13.51
+No chains selected.
+Found 1 chains.
+1mla  98.71
+Using 1 chains with percentid >= 25.
+Number of residues: 309
+Minimum consensus fraction: 0.25
+Total bond energy: 259.1640625
+Writing ./output_input_ALL/d1mlaa2.dat
+# Polymer: ./output_input_ALL/d1lkoa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -14.325
+# Number of residues: 191
+# Number of contacts: 445
+Writing ./output_input_ALL/d1lkoa2._abs_energies.dat
+Found 1 chains.
+2nn6  61.41
+Using 1 chains with percentid >= 25.
+Number of residues: 355
+Minimum consensus fraction: 0.25
+Total bond energy: 170.015625
+Writing ./output_input_ALL/d2nn6h3.dat
+# nresidues = 119
+# Writing d1xqua__elongation_profile.dat
+Found 1 chains.
+2v03  96.37
+Using 1 chains with percentid >= 25.
+Number of residues: 303
+Minimum consensus fraction: 0.25
+Total bond energy: 262.3203125
+Writing ./output_input_ALL/d2v03a_.dat
+Found 1 chains.
+1mtz  98.98
+Using 1 chains with percentid >= 25.
+Number of residues: 293
+Minimum consensus fraction: 0.25
+Total bond energy: 286.515625
+Writing ./output_input_ALL/d1mtza_.dat
+# Polymer: ./output_input_ALL/d2o9aa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -20.55
+# Number of residues: 274
+# Number of contacts: 441
+Writing ./output_input_ALL/d2o9aa_._abs_energies.dat
+Traceback (most recent call last):
+  File "calc_absolute_energies.py", line 134, in <module>
+    with open(clargs.polymer, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output_input_ALL/d1kxpd2.dat'
+Found 1 chains.
+1zar  93.26
+Using 1 chains with percentid >= 25.
+Number of residues: 282
+Minimum consensus fraction: 0.25
+Total bond energy: 243.140625
+Writing ./output_input_ALL/d1zara1.dat
+# Polymer: ./output_input_ALL/d1i5za1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -15.75
+# Number of residues: 210
+# Number of contacts: 437
+Writing ./output_input_ALL/d1i5za1._abs_energies.dat
+# nresidues = 170
+# Writing d2cnza__elongation_profile.dat
+Found 1 chains.
+1m2t  43.09
+Using 1 chains with percentid >= 25.
+Number of residues: 564
+Minimum consensus fraction: 0.25
+Total bond energy: 237.9375
+Writing ./output_input_ALL/d1m2tb1.dat
+# Polymer: ./output_input_ALL/d1zina1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -16.275
+# Number of residues: 217
+# Number of contacts: 509
+Writing ./output_input_ALL/d1zina1._abs_energies.dat
+# Polymer: ./output_input_ALL/d2w43a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -15.075
+# Number of residues: 201
+# Number of contacts: 486
+Writing ./output_input_ALL/d2w43a_._abs_energies.dat
+# nresidues = 145
+# Writing d1exra__elongation_profile.dat
+Found 1 chains.
+1zt2  99.09
+Using 1 chains with percentid >= 25.
+Number of residues: 330
+Minimum consensus fraction: 0.25
+Total bond energy: 275.0703125
+Writing ./output_input_ALL/d1zt2b1.dat
+Found 1 chains.
+2aeb  97.20
+Using 1 chains with percentid >= 25.
+Number of residues: 322
+Minimum consensus fraction: 0.25
+Total bond energy: 276.4921875
+Writing ./output_input_ALL/d2aeba_.dat
+Found 1 chains.
+1tjy  92.35
+Using 1 chains with percentid >= 25.
+Number of residues: 340
+Minimum consensus fraction: 0.25
+Total bond energy: 295.7890625
+Writing ./output_input_ALL/d1tjya1.dat
+# Polymer: ./output_input_ALL/d3bqoa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -32.925
+# Number of residues: 439
+# Number of contacts: 465
+Writing ./output_input_ALL/d3bqoa1._abs_energies.dat
+Found 1 chains.
+1nij 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 284
+Minimum consensus fraction: 0.25
+Total bond energy: 233.3046875
+Writing ./output_input_ALL/d1nija1.dat
+Found 1 chains.
+1kbv  76.02
+Using 1 chains with percentid >= 25.
+Number of residues: 392
+Minimum consensus fraction: 0.25
+Total bond energy: 304.78125
+Writing ./output_input_ALL/d1kbva1.dat
+# Polymer: ./output_input_ALL/d1n71a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -13.65
+# Number of residues: 182
+# Number of contacts: 398
+Writing ./output_input_ALL/d1n71a_._abs_energies.dat
+Found 1 chains.
+2nxf  97.20
+Using 1 chains with percentid >= 25.
+Number of residues: 322
+Minimum consensus fraction: 0.25
+Total bond energy: 314.4453125
+Writing ./output_input_ALL/d2nxfa1.dat
+Found 1 chains.
+2iiz  98.39
+Using 1 chains with percentid >= 25.
+Number of residues: 311
+Minimum consensus fraction: 0.25
+Total bond energy: 288.625
+Writing ./output_input_ALL/d2iiza_.dat
+# Polymer: ./output_input_ALL/d1cuka3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -15.225
+# Number of residues: 203
+# Number of contacts: 378
+Writing ./output_input_ALL/d1cuka3._abs_energies.dat
+Found 1 chains.
+1vj1  93.99
+Using 1 chains with percentid >= 25.
+Number of residues: 316
+Minimum consensus fraction: 0.25
+Total bond energy: 264.4765625
+Writing ./output_input_ALL/d1vj1a1.dat
+Found 1 chains.
+2bi0  97.92
+Using 1 chains with percentid >= 25.
+Number of residues: 337
+Minimum consensus fraction: 0.25
+Total bond energy: 287.15625
+Writing ./output_input_ALL/d2bi0a2.dat
+# Polymer: ./output_input_ALL/d1cv8a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -29.099999999999998
+# Number of residues: 388
+# Number of contacts: 407
+Writing ./output_input_ALL/d1cv8a_._abs_energies.dat
+Found 1 chains.
+1hh2 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 344
+Minimum consensus fraction: 0.25
+Total bond energy: 268.375
+Writing ./output_input_ALL/d1hh2p4.dat
+# Polymer: ./output_input_ALL/d1g40a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -19.724999999999998
+# Number of residues: 263
+# Number of contacts: 384
+Writing ./output_input_ALL/d1g40a1._abs_energies.dat
+# Polymer: ./output_input_ALL/d2bzva_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -29.025
+# Number of residues: 387
+# Number of contacts: 331
+Writing ./output_input_ALL/d2bzva_._abs_energies.dat
+Found 1 chains.
+2wjn  93.26
+Using 1 chains with percentid >= 25.
+Number of residues: 356
+Minimum consensus fraction: 0.25
+Total bond energy: 232.8828125
+Writing ./output_input_ALL/d2wjnm_.dat
+# nresidues = 147
+# Writing d2vb1a1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d3bgea1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -33.449999999999996
+# Number of residues: 446
+# Number of contacts: 344
+Writing ./output_input_ALL/d3bgea1._abs_energies.dat
+# Polymer: ./output_input_ALL/d2b8ta2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -16.65
+# Number of residues: 222
+# Number of contacts: 414
+Writing ./output_input_ALL/d2b8ta2._abs_energies.dat
+Found 1 chains.
+1mpp  82.67
+Using 1 chains with percentid >= 25.
+Number of residues: 427
+Minimum consensus fraction: 0.25
+Total bond energy: 325.1875
+Writing ./output_input_ALL/d1mppa_.dat
+# Polymer: ./output_input_ALL/d1vm6a3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -16.2
+# Number of residues: 216
+# Number of contacts: 493
+Writing ./output_input_ALL/d1vm6a3._abs_energies.dat
+Found 1 chains.
+1mg7  85.63
+Using 1 chains with percentid >= 25.
+Number of residues: 355
+Minimum consensus fraction: 0.25
+Total bond energy: 278.0859375
+Writing ./output_input_ALL/d1mg7a2.dat
+# nresidues = 150
+# Writing d1lj9a__elongation_profile.dat
+# nresidues = 148
+# Writing d3khta__elongation_profile.dat
+Found 1 chains.
+2b8e  31.59
+Using 1 chains with percentid >= 25.
+Number of residues: 804
+Minimum consensus fraction: 0.25
+Total bond energy: 235.3828125
+Writing ./output_input_ALL/d2b8ea1.dat
+Found 1 chains.
+1of8  92.70
+Using 1 chains with percentid >= 25.
+Number of residues: 370
+Minimum consensus fraction: 0.25
+Total bond energy: 312.890625
+Writing ./output_input_ALL/d1of8a_.dat
+Found 1 chains.
+1c0p  98.10
+Using 1 chains with percentid >= 25.
+Number of residues: 368
+Minimum consensus fraction: 0.25
+Total bond energy: 324.8984375
+Writing ./output_input_ALL/d1c0pa2.dat
+# nresidues = 176
+# Writing d1x91a__elongation_profile.dat
+Found 1 chains.
+1bi5  99.74
+Using 1 chains with percentid >= 25.
+Number of residues: 389
+Minimum consensus fraction: 0.25
+Total bond energy: 352.0234375
+Writing ./output_input_ALL/d1bi5a2.dat
+Found 1 chains.
+1pea  95.06
+Using 1 chains with percentid >= 25.
+Number of residues: 385
+Minimum consensus fraction: 0.25
+Total bond energy: 333.2421875
+Writing ./output_input_ALL/d1peaa_.dat
+Found 1 chains.
+1qzx  95.08
+Using 1 chains with percentid >= 25.
+Number of residues: 447
+Minimum consensus fraction: 0.25
+Total bond energy: 349.2265625
+Writing ./output_input_ALL/d1qzxa2.dat
+# Polymer: ./output_input_ALL/d1t95a2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -17.55
+# Number of residues: 234
+# Number of contacts: 493
+Writing ./output_input_ALL/d1t95a2._abs_energies.dat
+# nresidues = 142
+# Writing d1qgva__elongation_profile.dat
+Found 1 chains.
+1f00  30.03
+Using 1 chains with percentid >= 25.
+Number of residues: 939
+Minimum consensus fraction: 0.25
+Total bond energy: 263.015625
+Writing ./output_input_ALL/d1f00i1.dat
+# nresidues = 159
+# Writing d2bcma__elongation_profile.dat
+Found 1 chains.
+1f00  30.03
+Using 1 chains with percentid >= 25.
+Number of residues: 939
+Minimum consensus fraction: 0.25
+Total bond energy: 263.015625
+Writing ./output_input_ALL/d1f00i3.dat
+# nresidues = 156
+# Writing d1gqva__elongation_profile.dat
+Found 1 chains.
+1j1b  86.43
+Using 1 chains with percentid >= 25.
+Number of residues: 420
+Minimum consensus fraction: 0.25
+Total bond energy: 283.7578125
+Writing ./output_input_ALL/d1j1ba_.dat
+# Polymer: ./output_input_ALL/d3bexa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -18.45
+# Number of residues: 246
+# Number of contacts: 570
+Writing ./output_input_ALL/d3bexa2._abs_energies.dat
+# nresidues = 148
+# Writing d3v7ba__elongation_profile.dat
+Found 1 chains.
+2c5s  92.31
+Using 1 chains with percentid >= 25.
+Number of residues: 403
+Minimum consensus fraction: 0.25
+Total bond energy: 317.28125
+Writing ./output_input_ALL/d2c5sa1.dat
+# Polymer: ./output_input_ALL/d1b77a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -17.099999999999998
+# Number of residues: 228
+# Number of contacts: 457
+Writing ./output_input_ALL/d1b77a1._abs_energies.dat
+Found 1 chains.
+1tzz  97.43
+Using 1 chains with percentid >= 25.
+Number of residues: 389
+Minimum consensus fraction: 0.25
+Total bond energy: 340.6484375
+Writing ./output_input_ALL/d1tzza1.dat
+# Polymer: ./output_input_ALL/d2nn6h3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -26.625
+# Number of residues: 355
+# Number of contacts: 352
+Writing ./output_input_ALL/d2nn6h3._abs_energies.dat
+Found 1 chains.
+3mmc  99.76
+Using 1 chains with percentid >= 25.
+Number of residues: 418
+Minimum consensus fraction: 0.25
+Total bond energy: 337.609375
+Writing ./output_input_ALL/d3mmcb2.dat
+# nresidues = 350
+# Writing d2i5fa__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1rwta_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -20.025
+# Number of residues: 267
+# Number of contacts: 385
+Writing ./output_input_ALL/d1rwta_._abs_energies.dat
+Found 1 chains.
+2o9c  41.99
+Using 1 chains with percentid >= 25.
+Number of residues: 755
+Minimum consensus fraction: 0.25
+Total bond energy: 265.734375
+Writing ./output_input_ALL/d2o9ca2.dat
+Found 1 chains.
+1jqg  94.46
+Using 1 chains with percentid >= 25.
+Number of residues: 433
+Minimum consensus fraction: 0.25
+Total bond energy: 361.2734375
+Writing ./output_input_ALL/d1jqga2.dat
+# Polymer: ./output_input_ALL/d3f4wa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -15.825
+# Number of residues: 211
+# Number of contacts: 510
+Writing ./output_input_ALL/d3f4wa_._abs_energies.dat
+Found 1 chains.
+2uxq 100.00
+Using 1 chains with percentid >= 25.
+Number of residues: 402
+Minimum consensus fraction: 0.25
+Total bond energy: 381.265625
+Writing ./output_input_ALL/d2uxqa_.dat
+# Polymer: ./output_input_ALL/d3qnma_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -17.25
+# Number of residues: 230
+# Number of contacts: 538
+Writing ./output_input_ALL/d3qnma_._abs_energies.dat
+# nresidues = 138
+# Writing d3g0ma__elongation_profile.dat
+# Polymer: ./output_input_ALL/d3aaac_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -21.45
+# Number of residues: 286
+# Number of contacts: 555
+Writing ./output_input_ALL/d3aaac_._abs_energies.dat
+Found 1 chains.
+1sq9  95.21
+Using 1 chains with percentid >= 25.
+Number of residues: 397
+Minimum consensus fraction: 0.25
+Total bond energy: 396.0078125
+Writing ./output_input_ALL/d1sq9a_.dat
+Found 1 chains.
+2bll  49.85
+Using 1 chains with percentid >= 25.
+Number of residues: 660
+Minimum consensus fraction: 0.25
+Total bond energy: 299.5
+Writing ./output_input_ALL/d2blla1.dat
+Found 1 chains.
+1ox0  99.51
+Using 1 chains with percentid >= 25.
+Number of residues: 411
+Minimum consensus fraction: 0.25
+Total bond energy: 377.734375
+Writing ./output_input_ALL/d1ox0a2.dat
+Found 1 chains.
+1hyo  99.52
+Using 1 chains with percentid >= 25.
+Number of residues: 419
+Minimum consensus fraction: 0.25
+Total bond energy: 365.4296875
+Writing ./output_input_ALL/d1hyoa1.dat
+Found 1 chains.
+1kwm  95.91
+Using 1 chains with percentid >= 25.
+Number of residues: 416
+Minimum consensus fraction: 0.25
+Total bond energy: 394.9375
+Writing ./output_input_ALL/d1kwma2.dat
+# Polymer: ./output_input_ALL/d2yvla_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -18.599999999999998
+# Number of residues: 248
+# Number of contacts: 550
+Writing ./output_input_ALL/d2yvla_._abs_energies.dat
+Found 1 chains.
+3oae  84.41
+Using 1 chains with percentid >= 25.
+Number of residues: 494
+Minimum consensus fraction: 0.25
+Total bond energy: 341.9140625
+Writing ./output_input_ALL/d3oaed_.dat
+Found 1 chains.
+2bto  89.22
+Using 1 chains with percentid >= 25.
+Number of residues: 473
+Minimum consensus fraction: 0.25
+Total bond energy: 372.484375
+Writing ./output_input_ALL/d2btoa2.dat
+# nresidues = 141
+# Writing d1z1sa1_elongation_profile.dat
+Found 1 chains.
+1pb7  29.74
+Using 1 chains with percentid >= 25.
+Number of residues: 938
+Minimum consensus fraction: 0.25
+Total bond energy: 246.890625
+Writing ./output_input_ALL/d1pb7a_.dat
+# Polymer: ./output_input_ALL/d1zara1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -21.15
+# Number of residues: 282
+# Number of contacts: 641
+Writing ./output_input_ALL/d1zara1._abs_energies.dat
+Found 1 chains.
+1nhp  99.78
+Using 1 chains with percentid >= 25.
+Number of residues: 447
+Minimum consensus fraction: 0.25
+Total bond energy: 388.4296875
+Writing ./output_input_ALL/d1nhpa3.dat
+Found 1 chains.
+2bpa  99.53
+Using 1 chains with percentid >= 25.
+Number of residues: 427
+Minimum consensus fraction: 0.25
+Total bond energy: 362.453125
+Writing ./output_input_ALL/d2bpa2_.dat
+# nresidues = 166
+# Writing d1xy7a__elongation_profile.dat
+Found 1 chains.
+1ig8  95.88
+Using 1 chains with percentid >= 25.
+Number of residues: 486
+Minimum consensus fraction: 0.25
+Total bond energy: 385.9140625
+Writing ./output_input_ALL/d1ig8a2.dat
+# Polymer: ./output_input_ALL/d3c70a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -19.275
+# Number of residues: 257
+# Number of contacts: 663
+Writing ./output_input_ALL/d3c70a_._abs_energies.dat
+Found 1 chains.
+2bmo  97.76
+Using 1 chains with percentid >= 25.
+Number of residues: 447
+Minimum consensus fraction: 0.25
+Total bond energy: 425.140625
+Writing ./output_input_ALL/d2bmoa1.dat
+Found 1 chains.
+2b1x  93.83
+Using 1 chains with percentid >= 25.
+Number of residues: 470
+Minimum consensus fraction: 0.25
+Total bond energy: 416.875
+Writing ./output_input_ALL/d2b1xb1.dat
+# Polymer: ./output_input_ALL/d3f1la_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -18.9
+# Number of residues: 252
+# Number of contacts: 598
+Writing ./output_input_ALL/d3f1la_._abs_energies.dat
+Found 1 chains.
+1tjv  95.94
+Using 1 chains with percentid >= 25.
+Number of residues: 468
+Minimum consensus fraction: 0.25
+Total bond energy: 382.4921875
+Writing ./output_input_ALL/d1tjva_.dat
+# nresidues = 146
+# Writing d1l0oc__elongation_profile.dat
+# nresidues = 172
+# Writing d1sena__elongation_profile.dat
+# nresidues = 161
+# Writing d3bjva__elongation_profile.dat
+Found 1 chains.
+1j6u  93.65
+Using 1 chains with percentid >= 25.
+Number of residues: 457
+Minimum consensus fraction: 0.25
+Total bond energy: 428.1875
+Writing ./output_input_ALL/d1j6ua3.dat
+Found 1 chains.
+1sxj  45.88
+Using 1 chains with percentid >= 25.
+Number of residues: 861
+Minimum consensus fraction: 0.25
+Total bond energy: 303.5703125
+Writing ./output_input_ALL/d1sxjd1.dat
+Found 1 chains.
+1rqb  81.89
+Using 1 chains with percentid >= 25.
+Number of residues: 519
+Minimum consensus fraction: 0.25
+Total bond energy: 398.8515625
+Writing ./output_input_ALL/d1rqba1.dat
+Found 1 chains.
+1smp  95.89
+Using 1 chains with percentid >= 25.
+Number of residues: 487
+Minimum consensus fraction: 0.25
+Total bond energy: 445.859375
+Writing ./output_input_ALL/d1smpi_.dat
+# nresidues = 226
+# Writing d2e9xd1_elongation_profile.dat
+Found 1 chains.
+1lwh  99.77
+Using 1 chains with percentid >= 25.
+Number of residues: 441
+Minimum consensus fraction: 0.25
+Total bond energy: 398.2265625
+Writing ./output_input_ALL/d1lwha2.dat
+# Polymer: ./output_input_ALL/d2phna_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -18.675
+# Number of residues: 249
+# Number of contacts: 520
+Writing ./output_input_ALL/d2phna_._abs_energies.dat
+Found 1 chains.
+2ri9  92.95
+Using 1 chains with percentid >= 25.
+Number of residues: 511
+Minimum consensus fraction: 0.25
+Total bond energy: 427.609375
+Writing ./output_input_ALL/d2ri9a_.dat
+# Polymer: ./output_input_ALL/d1nija1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -21.3
+# Number of residues: 284
+# Number of contacts: 592
+Writing ./output_input_ALL/d1nija1._abs_energies.dat
+# nresidues = 157
+# Writing d1kjna__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1m3ua_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -19.8
+# Number of residues: 264
+# Number of contacts: 654
+Writing ./output_input_ALL/d1m3ua_._abs_energies.dat
+Found 1 chains.
+2f7f  97.37
+Using 1 chains with percentid >= 25.
+Number of residues: 494
+Minimum consensus fraction: 0.25
+Total bond energy: 436.0703125
+Writing ./output_input_ALL/d2f7fa2.dat
+# Polymer: ./output_input_ALL/d1knxa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -23.4
+# Number of residues: 312
+# Number of contacts: 646
+Writing ./output_input_ALL/d1knxa2._abs_energies.dat
+Found 1 chains.
+2g50  97.74
+Using 1 chains with percentid >= 25.
+Number of residues: 530
+Minimum consensus fraction: 0.25
+Total bond energy: 473.71875
+Writing ./output_input_ALL/d2g50a1.dat
+Found 1 chains.
+2b2n  26.83
+Using 1 chains with percentid >= 25.
+Number of residues: 1148
+Minimum consensus fraction: 0.25
+Total bond energy: 256.9921875
+Writing ./output_input_ALL/d2b2na1.dat
+# Polymer: ./output_input_ALL/d1rwza2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -18.375
+# Number of residues: 245
+# Number of contacts: 567
+Writing ./output_input_ALL/d1rwza2._abs_energies.dat
+# Polymer: ./output_input_ALL/d1vj1a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -23.7
+# Number of residues: 316
+# Number of contacts: 676
+Writing ./output_input_ALL/d1vj1a1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1viza_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -17.925
+# Number of residues: 239
+# Number of contacts: 540
+Writing ./output_input_ALL/d1viza_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2v03a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -22.724999999999998
+# Number of residues: 303
+# Number of contacts: 730
+Writing ./output_input_ALL/d2v03a_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1ujpa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -20.325
+# Number of residues: 271
+# Number of contacts: 575
+Writing ./output_input_ALL/d1ujpa_._abs_energies.dat
+Found 1 chains.
+1qki  95.15
+Using 1 chains with percentid >= 25.
+Number of residues: 515
+Minimum consensus fraction: 0.25
+Total bond energy: 400.1640625
+Writing ./output_input_ALL/d1qkia2.dat
+# nresidues = 191
+# Writing d2ccma__elongation_profile.dat
+Found 1 chains.
+1oa0  99.63
+Using 1 chains with percentid >= 25.
+Number of residues: 545
+Minimum consensus fraction: 0.25
+Total bond energy: 469.96875
+Writing ./output_input_ALL/d1oa0a_.dat
+Found 1 chains.
+3sgh  92.90
+Using 1 chains with percentid >= 25.
+Number of residues: 521
+Minimum consensus fraction: 0.25
+Total bond energy: 429.2890625
+Writing ./output_input_ALL/d3sgha_.dat
+# Polymer: ./output_input_ALL/d1uk8a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -21.15
+# Number of residues: 282
+# Number of contacts: 681
+Writing ./output_input_ALL/d1uk8a_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1hh2p4.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -25.8
+# Number of residues: 344
+# Number of contacts: 666
+Writing ./output_input_ALL/d1hh2p4._abs_energies.dat
+# Polymer: ./output_input_ALL/d1zt2b1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -24.75
+# Number of residues: 330
+# Number of contacts: 702
+Writing ./output_input_ALL/d1zt2b1._abs_energies.dat
+# nresidues = 169
+# Writing d2yzha__elongation_profile.dat
+# nresidues = 230
+# Writing d1z6ba1_elongation_profile.dat
+# nresidues = 167
+# Writing d1ryla__elongation_profile.dat
+./Automatic_Saknovich.sh: line 22: 22438 Killed                  python3 calc_absolute_energies.py --polymer ./output_input_ALL/$fasta.dat
+# nresidues = 168
+# Writing d1t3qc2_elongation_profile.dat
+# nresidues = 158
+# Writing d1htwa__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1tjya1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -25.5
+# Number of residues: 340
+# Number of contacts: 815
+Writing ./output_input_ALL/d1tjya1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1m2tb1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -42.3
+# Number of residues: 564
+# Number of contacts: 598
+Writing ./output_input_ALL/d1m2tb1._abs_energies.dat
+# Polymer: ./output_input_ALL/d2w21a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -27.525
+# Number of residues: 367
+# Number of contacts: 549
+Writing ./output_input_ALL/d2w21a_._abs_energies.dat
+Found 1 chains.
+1oyw  83.93
+Using 1 chains with percentid >= 25.
+Number of residues: 610
+Minimum consensus fraction: 0.25
+Total bond energy: 445.25
+Writing ./output_input_ALL/d1oywa3.dat
+Found 1 chains.
+1pkx  98.98
+Using 1 chains with percentid >= 25.
+Number of residues: 591
+Minimum consensus fraction: 0.25
+Total bond energy: 501.09375
+Writing ./output_input_ALL/d1pkxa1.dat
+# nresidues = 191
+# Writing d1lkoa2_elongation_profile.dat
+# nresidues = 189
+# Writing d2hzqa__elongation_profile.dat
+# Polymer: ./output_input_ALL/d2wjnm_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -26.7
+# Number of residues: 356
+# Number of contacts: 665
+Writing ./output_input_ALL/d2wjnm_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1mpga2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -21.15
+# Number of residues: 282
+# Number of contacts: 689
+Writing ./output_input_ALL/d1mpga2._abs_energies.dat
+# Polymer: ./output_input_ALL/d2aeba_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -24.15
+# Number of residues: 322
+# Number of contacts: 760
+Writing ./output_input_ALL/d2aeba_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1uf3a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -17.099999999999998
+# Number of residues: 228
+# Number of contacts: 566
+Writing ./output_input_ALL/d1uf3a_._abs_energies.dat
+Found 1 chains.
+1omw  89.11
+Using 1 chains with percentid >= 25.
+Number of residues: 689
+Minimum consensus fraction: 0.25
+Total bond energy: 495.0234375
+Writing ./output_input_ALL/d1omwa1.dat
+Found 1 chains.
+1vns  94.09
+Using 1 chains with percentid >= 25.
+Number of residues: 609
+Minimum consensus fraction: 0.25
+Total bond energy: 520.8359375
+Writing ./output_input_ALL/d1vnsa_.dat
+# Polymer: ./output_input_ALL/d1mg7a2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -26.625
+# Number of residues: 355
+# Number of contacts: 776
+Writing ./output_input_ALL/d1mg7a2._abs_energies.dat
+./Automatic_Saknovich.sh: line 22: 23589 Killed                  python3 calc_absolute_energies.py --polymer ./output_input_ALL/$fasta.dat
+Found 1 chains.
+2ez9  96.68
+Using 1 chains with percentid >= 25.
+Number of residues: 603
+Minimum consensus fraction: 0.25
+Total bond energy: 518.9921875
+Writing ./output_input_ALL/d2ez9a1.dat
+# nresidues = 207
+# Writing d2vkva1_elongation_profile.dat
+# nresidues = 250
+# Writing d1ccza1_elongation_profile.dat
+# nresidues = 209
+# Writing d2aeea1_elongation_profile.dat
+# nresidues = 187
+# Writing d1gkya__elongation_profile.dat
+Found 1 chains.
+2r8o  99.10
+Using 1 chains with percentid >= 25.
+Number of residues: 664
+Minimum consensus fraction: 0.25
+Total bond energy: 593.8046875
+Writing ./output_input_ALL/d2r8oa2.dat
+Found 1 chains.
+2ix0  98.29
+Using 1 chains with percentid >= 25.
+Number of residues: 644
+Minimum consensus fraction: 0.25
+Total bond energy: 559.5625
+Writing ./output_input_ALL/d2ix0a3.dat
+# nresidues = 184
+# Writing d1ueba1_elongation_profile.dat
+# nresidues = 187
+# Writing d1go3e1_elongation_profile.dat
+Found 1 chains.
+2hhv  65.83
+Using 1 chains with percentid >= 25.
+Number of residues: 878
+Minimum consensus fraction: 0.25
+Total bond energy: 491.3125
+Writing ./output_input_ALL/d2hhva1.dat
+# nresidues = 274
+# Writing d2o9aa__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1qzxa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -33.525
+# Number of residues: 447
+# Number of contacts: 873
+Writing ./output_input_ALL/d1qzxa2._abs_energies.dat
+# Polymer: ./output_input_ALL/d1mlaa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -23.175
+# Number of residues: 309
+# Number of contacts: 758
+Writing ./output_input_ALL/d1mlaa2._abs_energies.dat
+# Polymer: ./output_input_ALL/d3mmcb2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -31.349999999999998
+# Number of residues: 418
+# Number of contacts: 930
+Writing ./output_input_ALL/d3mmcb2._abs_energies.dat
+# nresidues = 280
+# Writing d2a5yb1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1of8a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -27.75
+# Number of residues: 370
+# Number of contacts: 871
+Writing ./output_input_ALL/d1of8a_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1mtza_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -21.974999999999998
+# Number of residues: 293
+# Number of contacts: 762
+Writing ./output_input_ALL/d1mtza_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2b8ea1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -60.3
+# Number of residues: 804
+# Number of contacts: 579
+Writing ./output_input_ALL/d2b8ea1._abs_energies.dat
+Found 1 chains.
+1iv8  95.56
+Using 1 chains with percentid >= 25.
+Number of residues: 720
+Minimum consensus fraction: 0.25
+Total bond energy: 557.46875
+Writing ./output_input_ALL/d1iv8a1.dat
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+# nresidues = 182
+# Writing d1n71a__elongation_profile.dat
+Found 1 chains.
+7req  99.59
+Using 1 chains with percentid >= 25.
+Number of residues: 728
+Minimum consensus fraction: 0.25
+Total bond energy: 614.34375
+Writing ./output_input_ALL/d7reqb1.dat
+# Polymer: ./output_input_ALL/d1peaa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -28.875
+# Number of residues: 385
+# Number of contacts: 944
+Writing ./output_input_ALL/d1peaa_._abs_energies.dat
+# nresidues = 210
+# Writing d1i5za1_elongation_profile.dat
+# nresidues = 228
+# Writing d1b77a1_elongation_profile.dat
+# nresidues = 392
+# Writing d1pgva__elongation_profile.dat
+Found 1 chains.
+1w7c  92.38
+Using 1 chains with percentid >= 25.
+Number of residues: 787
+Minimum consensus fraction: 0.25
+Total bond energy: 673.84375
+Writing ./output_input_ALL/d1w7ca1.dat
+# Polymer: ./output_input_ALL/d2blla1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -49.5
+# Number of residues: 660
+# Number of contacts: 814
+Writing ./output_input_ALL/d2blla1._abs_energies.dat
+# Polymer: ./output_input_ALL/d2c5sa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -30.224999999999998
+# Number of residues: 403
+# Number of contacts: 871
+Writing ./output_input_ALL/d2c5sa1._abs_energies.dat
+# nresidues = 207
+# Writing d1mqea__elongation_profile.dat
+# nresidues = 201
+# Writing d2w43a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d2nxfa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -24.15
+# Number of residues: 322
+# Number of contacts: 802
+Writing ./output_input_ALL/d2nxfa1._abs_energies.dat
+# nresidues = 217
+# Writing d1zina1_elongation_profile.dat
+# nresidues = 232
+# Writing d1m4ua__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1kbva1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -29.4
+# Number of residues: 392
+# Number of contacts: 732
+Writing ./output_input_ALL/d1kbva1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1c0pa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -27.599999999999998
+# Number of residues: 368
+# Number of contacts: 852
+Writing ./output_input_ALL/d1c0pa2._abs_energies.dat
+# Polymer: ./output_input_ALL/d1tjva_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -35.1
+# Number of residues: 468
+# Number of contacts: 1103
+Writing ./output_input_ALL/d1tjva_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2iiza_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -23.325
+# Number of residues: 311
+# Number of contacts: 728
+Writing ./output_input_ALL/d2iiza_._abs_energies.dat
+# nresidues = 222
+# Writing d2b8ta2_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1tzza1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -29.174999999999997
+# Number of residues: 389
+# Number of contacts: 931
+Writing ./output_input_ALL/d1tzza1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1j1ba_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -31.5
+# Number of residues: 420
+# Number of contacts: 781
+Writing ./output_input_ALL/d1j1ba_._abs_energies.dat
+# nresidues = 234
+# Writing d1t95a2_elongation_profile.dat
+# nresidues = 387
+# Writing d2bzva__elongation_profile.dat
+Found 1 chains.
+1qba  96.72
+Using 1 chains with percentid >= 25.
+Number of residues: 885
+Minimum consensus fraction: 0.25
+Total bond energy: 800.421875
+Writing ./output_input_ALL/d1qbaa1.dat
+# nresidues = 288
+# Writing d3rnqa__elongation_profile.dat
+# nresidues = 263
+# Writing d1g40a1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d3oaed_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -37.05
+# Number of residues: 494
+# Number of contacts: 837
+Writing ./output_input_ALL/d3oaed_._abs_energies.dat
+Found 1 chains.
+2vzs  82.95
+Using 1 chains with percentid >= 25.
+Number of residues: 1032
+Minimum consensus fraction: 0.25
+Total bond energy: 877.7734375
+Writing ./output_input_ALL/d2vzsa4.dat
+# nresidues = 203
+# Writing d1cuka3_elongation_profile.dat
+# Polymer: ./output_input_ALL/d2bi0a2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -25.275
+# Number of residues: 337
+# Number of contacts: 730
+Writing ./output_input_ALL/d2bi0a2._abs_energies.dat
+Found 1 chains.
+1kbl  99.05
+Using 1 chains with percentid >= 25.
+Number of residues: 840
+Minimum consensus fraction: 0.25
+Total bond energy: 786.4609375
+Writing ./output_input_ALL/d1kbla3.dat
+# Polymer: ./output_input_ALL/d1hyoa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -31.424999999999997
+# Number of residues: 419
+# Number of contacts: 1030
+Writing ./output_input_ALL/d1hyoa1._abs_energies.dat
+# nresidues = 267
+# Writing d1rwta__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1bi5a2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -29.174999999999997
+# Number of residues: 389
+# Number of contacts: 977
+Writing ./output_input_ALL/d1bi5a2._abs_energies.dat
+# Polymer: ./output_input_ALL/d1kwma2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -31.2
+# Number of residues: 416
+# Number of contacts: 1025
+Writing ./output_input_ALL/d1kwma2._abs_energies.dat
+# Polymer: ./output_input_ALL/d1sxjd1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -64.575
+# Number of residues: 861
+# Number of contacts: 838
+Writing ./output_input_ALL/d1sxjd1._abs_energies.dat
+# nresidues = 388
+# Writing d1cv8a__elongation_profile.dat
+# nresidues = 216
+# Writing d1vm6a3_elongation_profile.dat
+# nresidues = 246
+# Writing d3bexa2_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1jqga2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -32.475
+# Number of residues: 433
+# Number of contacts: 1013
+Writing ./output_input_ALL/d1jqga2._abs_energies.dat
+# nresidues = 211
+# Writing d3f4wa__elongation_profile.dat
+# nresidues = 230
+# Writing d3qnma__elongation_profile.dat
+Found 1 chains.
+1jz8  98.63
+Using 1 chains with percentid >= 25.
+Number of residues: 1024
+Minimum consensus fraction: 0.25
+Total bond energy: 1040.578125
+Writing ./output_input_ALL/d1jz8a5.dat
+# Polymer: ./output_input_ALL/d2btoa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -35.475
+# Number of residues: 473
+# Number of contacts: 1023
+Writing ./output_input_ALL/d2btoa2._abs_energies.dat
+# Polymer: ./output_input_ALL/d2ri9a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -38.324999999999996
+# Number of residues: 511
+# Number of contacts: 1212
+Writing ./output_input_ALL/d2ri9a_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1j6ua3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -34.275
+# Number of residues: 457
+# Number of contacts: 1104
+Writing ./output_input_ALL/d1j6ua3._abs_energies.dat
+# nresidues = 282
+# Writing d1zara1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d2uxqa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -30.15
+# Number of residues: 402
+# Number of contacts: 993
+Writing ./output_input_ALL/d2uxqa_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2g50a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -39.75
+# Number of residues: 530
+# Number of contacts: 1272
+Writing ./output_input_ALL/d2g50a1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1sq9a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -29.775
+# Number of residues: 397
+# Number of contacts: 912
+Writing ./output_input_ALL/d1sq9a_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1nhpa3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -33.525
+# Number of residues: 447
+# Number of contacts: 1041
+Writing ./output_input_ALL/d1nhpa3._abs_energies.dat
+# nresidues = 446
+# Writing d3bgea1_elongation_profile.dat
+# nresidues = 252
+# Writing d3f1la__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1lwha2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -33.074999999999996
+# Number of residues: 441
+# Number of contacts: 1066
+Writing ./output_input_ALL/d1lwha2._abs_energies.dat
+# nresidues = 248
+# Writing d2yvla__elongation_profile.dat
+# nresidues = 439
+# Writing d3bqoa1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1ig8a2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -36.449999999999996
+# Number of residues: 486
+# Number of contacts: 1108
+Writing ./output_input_ALL/d1ig8a2._abs_energies.dat
+# nresidues = 257
+# Writing d3c70a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1smpi_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -36.525
+# Number of residues: 487
+# Number of contacts: 1159
+Writing ./output_input_ALL/d1smpi_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1f00i3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -70.425
+# Number of residues: 939
+# Number of contacts: 614
+Writing ./output_input_ALL/d1f00i3._abs_energies.dat
+# nresidues = 239
+# Writing d1viza__elongation_profile.dat
+# Polymer: ./output_input_ALL/d2bmoa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -33.525
+# Number of residues: 447
+# Number of contacts: 1121
+Writing ./output_input_ALL/d2bmoa1._abs_energies.dat
+# Polymer: ./output_input_ALL/d2bpa2_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -32.025
+# Number of residues: 427
+# Number of contacts: 885
+Writing ./output_input_ALL/d2bpa2_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2f7fa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -37.05
+# Number of residues: 494
+# Number of contacts: 1204
+Writing ./output_input_ALL/d2f7fa2._abs_energies.dat
+# nresidues = 249
+# Writing d2phna__elongation_profile.dat
+# nresidues = 228
+# Writing d1uf3a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d3sgha_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -39.074999999999996
+# Number of residues: 521
+# Number of contacts: 1307
+Writing ./output_input_ALL/d3sgha_._abs_energies.dat
+# Polymer: ./output_input_ALL/d2b1xb1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -35.25
+# Number of residues: 470
+# Number of contacts: 1098
+Writing ./output_input_ALL/d2b1xb1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1qkia2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -38.625
+# Number of residues: 515
+# Number of contacts: 1059
+Writing ./output_input_ALL/d1qkia2._abs_energies.dat
+# Polymer: ./output_input_ALL/d1ox0a2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -30.825
+# Number of residues: 411
+# Number of contacts: 1030
+Writing ./output_input_ALL/d1ox0a2._abs_energies.dat
+# nresidues = 316
+# Writing d1vj1a1_elongation_profile.dat
+# nresidues = 284
+# Writing d1nija1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1mppa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -32.025
+# Number of residues: 427
+# Number of contacts: 800
+Writing ./output_input_ALL/d1mppa_._abs_energies.dat
+# nresidues = 264
+# Writing d1m3ua__elongation_profile.dat
+# nresidues = 245
+# Writing d1rwza2_elongation_profile.dat
+# nresidues = 271
+# Writing d1ujpa__elongation_profile.dat
+# Polymer: ./output_input_ALL/d2o9ca2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -56.625
+# Number of residues: 755
+# Number of contacts: 692
+Writing ./output_input_ALL/d2o9ca2._abs_energies.dat
+# nresidues = 286
+# Writing d3aaac__elongation_profile.dat
+/home/cmourra/cg_cotrans/fe.py:77: RuntimeWarning: overflow encountered in exp
+  return np.exp(t_mu - np.dot(t_epsilon, rho)) * nodemask
+/home/cmourra/cg_cotrans/fe.py:80: RuntimeWarning: invalid value encountered in true_divide
+  return (rho - b / (1 + b)) * nodemask
+/home/cmourra/cg_cotrans/fe.py:98: RuntimeWarning: invalid value encountered in double_scalars
+  F_loop += F_loop_i / norm_i
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+# nresidues = 344
+# Writing d1hh2p4_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1oa0a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -40.875
+# Number of residues: 545
+# Number of contacts: 1359
+Writing ./output_input_ALL/d1oa0a_._abs_energies.dat
+# Polymer: ./output_input_ALL/d1oywa3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -45.75
+# Number of residues: 610
+# Number of contacts: 1225
+Writing ./output_input_ALL/d1oywa3._abs_energies.dat
+# nresidues = 355
+# Writing d2nn6h3_elongation_profile.dat
+# nresidues = 330
+# Writing d1zt2b1_elongation_profile.dat
+# nresidues = 303
+# Writing d2v03a__elongation_profile.dat
+# nresidues = 282
+# Writing d1uk8a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1rqba1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -38.925
+# Number of residues: 519
+# Number of contacts: 1149
+Writing ./output_input_ALL/d1rqba1._abs_energies.dat
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+# nresidues = 312
+# Writing d1knxa2_elongation_profile.dat
+# nresidues = 355
+# Writing d1mg7a2_elongation_profile.dat
+# Polymer: ./output_input_ALL/d2ez9a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -45.225
+# Number of residues: 603
+# Number of contacts: 1455
+Writing ./output_input_ALL/d2ez9a1._abs_energies.dat
+# Polymer: ./output_input_ALL/d2ix0a3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -48.3
+# Number of residues: 644
+# Number of contacts: 1464
+Writing ./output_input_ALL/d2ix0a3._abs_energies.dat
+# nresidues = 309
+# Writing d1mlaa2_elongation_profile.dat
+# nresidues = 293
+# Writing d1mtza__elongation_profile.dat
+# nresidues = 564
+# Writing d1m2tb1_elongation_profile.dat
+# nresidues = 322
+# Writing d2aeba__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1vnsa_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -45.675
+# Number of residues: 609
+# Number of contacts: 1505
+Writing ./output_input_ALL/d1vnsa_._abs_energies.dat
+# nresidues = 282
+# Writing d1mpga2_elongation_profile.dat
+# nresidues = 367
+# Writing d2w21a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1pb7a_.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -70.35
+# Number of residues: 938
+# Number of contacts: 657
+Writing ./output_input_ALL/d1pb7a_._abs_energies.dat
+# nresidues = 340
+# Writing d1tjya1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1pkxa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -44.324999999999996
+# Number of residues: 591
+# Number of contacts: 1351
+Writing ./output_input_ALL/d1pkxa1._abs_energies.dat
+# Polymer: ./output_input_ALL/d1omwa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -51.675
+# Number of residues: 689
+# Number of contacts: 1375
+Writing ./output_input_ALL/d1omwa1._abs_energies.dat
+# nresidues = 356
+# Writing d2wjnm__elongation_profile.dat
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+# nresidues = 311
+# Writing d2iiza__elongation_profile.dat
+# nresidues = 322
+# Writing d2nxfa1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1iv8a1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -54.0
+# Number of residues: 720
+# Number of contacts: 1668
+Writing ./output_input_ALL/d1iv8a1._abs_energies.dat
+# Polymer: ./output_input_ALL/d2hhva1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -65.85
+# Number of residues: 878
+# Number of contacts: 1377
+Writing ./output_input_ALL/d2hhva1._abs_energies.dat
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+# nresidues = 370
+# Writing d1of8a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d2r8oa2.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -49.8
+# Number of residues: 664
+# Number of contacts: 1700
+Writing ./output_input_ALL/d2r8oa2._abs_energies.dat
+# nresidues = 389
+# Writing d1bi5a2_elongation_profile.dat
+# nresidues = 447
+# Writing d1qzxa2_elongation_profile.dat
+# nresidues = 418
+# Writing d3mmcb2_elongation_profile.dat
+# nresidues = 385
+# Writing d1peaa__elongation_profile.dat
+/home/cmourra/cg_cotrans/fe.py:77: RuntimeWarning: overflow encountered in exp
+  return np.exp(t_mu - np.dot(t_epsilon, rho)) * nodemask
+/home/cmourra/cg_cotrans/fe.py:80: RuntimeWarning: invalid value encountered in true_divide
+  return (rho - b / (1 + b)) * nodemask
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+/home/cmourra/cg_cotrans/fe.py:98: RuntimeWarning: invalid value encountered in double_scalars
+  F_loop += F_loop_i / norm_i
+# nresidues = 392
+# Writing d1kbva1_elongation_profile.dat
+# nresidues = 368
+# Writing d1c0pa2_elongation_profile.dat
+/home/cmourra/cg_cotrans/fe.py:77: RuntimeWarning: overflow encountered in exp
+  return np.exp(t_mu - np.dot(t_epsilon, rho)) * nodemask
+/home/cmourra/cg_cotrans/fe.py:80: RuntimeWarning: invalid value encountered in true_divide
+  return (rho - b / (1 + b)) * nodemask
+/home/cmourra/cg_cotrans/fe.py:98: RuntimeWarning: invalid value encountered in double_scalars
+  F_loop += F_loop_i / norm_i
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+# nresidues = 389
+# Writing d1tzza1_elongation_profile.dat
+# nresidues = 337
+# Writing d2bi0a2_elongation_profile.dat
+# nresidues = 468
+# Writing d1tjva__elongation_profile.dat
+# Polymer: ./output_input_ALL/d7reqb1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -54.6
+# Number of residues: 728
+# Number of contacts: 1823
+Writing ./output_input_ALL/d7reqb1._abs_energies.dat
+# nresidues = 403
+# Writing d2c5sa1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1w7ca1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -59.025
+# Number of residues: 787
+# Number of contacts: 1651
+Writing ./output_input_ALL/d1w7ca1._abs_energies.dat
+# nresidues = 660
+# Writing d2blla1_elongation_profile.dat
+# nresidues = 419
+# Writing d1hyoa1_elongation_profile.dat
+# nresidues = 433
+# Writing d1jqga2_elongation_profile.dat
+# nresidues = 416
+# Writing d1kwma2_elongation_profile.dat
+# nresidues = 420
+# Writing d1j1ba__elongation_profile.dat
+# nresidues = 397
+# Writing d1sq9a__elongation_profile.dat
+# nresidues = 427
+# Writing d2bpa2__elongation_profile.dat
+# nresidues = 804
+# Writing d2b8ea1_elongation_profile.dat
+/home/cmourra/cg_cotrans/fe.py:139: RuntimeWarning: invalid value encountered in double_scalars
+  avg_seg_end_prob[(c, i, end)] = end_v / norm_v
+# nresidues = 402
+# Writing d2uxqa__elongation_profile.dat
+# nresidues = 427
+# Writing d1mppa__elongation_profile.dat
+# nresidues = 411
+# Writing d1ox0a2_elongation_profile.dat
+# nresidues = 494
+# Writing d3oaed__elongation_profile.dat
+# nresidues = 511
+# Writing d2ri9a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1kbla3.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -63.0
+# Number of residues: 840
+# Number of contacts: 2105
+Writing ./output_input_ALL/d1kbla3._abs_energies.dat
+# nresidues = 441
+# Writing d1lwha2_elongation_profile.dat
+# nresidues = 473
+# Writing d2btoa2_elongation_profile.dat
+# nresidues = 939
+# Writing d1f00i3_elongation_profile.dat
+# nresidues = 447
+# Writing d1nhpa3_elongation_profile.dat
+# nresidues = 457
+# Writing d1j6ua3_elongation_profile.dat
+# nresidues = 447
+# Writing d2bmoa1_elongation_profile.dat
+# nresidues = 487
+# Writing d1smpi__elongation_profile.dat
+# nresidues = 530
+# Writing d2g50a1_elongation_profile.dat
+# nresidues = 515
+# Writing d1qkia2_elongation_profile.dat
+# nresidues = 521
+# Writing d3sgha__elongation_profile.dat
+# nresidues = 494
+# Writing d2f7fa2_elongation_profile.dat
+# nresidues = 486
+# Writing d1ig8a2_elongation_profile.dat
+# nresidues = 470
+# Writing d2b1xb1_elongation_profile.dat
+# Polymer: ./output_input_ALL/d1qbaa1.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -66.375
+# Number of residues: 885
+# Number of contacts: 2189
+Writing ./output_input_ALL/d1qbaa1._abs_energies.dat
+# nresidues = 545
+# Writing d1oa0a__elongation_profile.dat
+# Polymer: ./output_input_ALL/d2vzsa4.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -77.39999999999999
+# Number of residues: 1032
+# Number of contacts: 2280
+Writing ./output_input_ALL/d2vzsa4._abs_energies.dat
+# nresidues = 861
+# Writing d1sxjd1_elongation_profile.dat
+# nresidues = 519
+# Writing d1rqba1_elongation_profile.dat
+# nresidues = 610
+# Writing d1oywa3_elongation_profile.dat
+# nresidues = 603
+# Writing d2ez9a1_elongation_profile.dat
+# nresidues = 938
+# Writing d1pb7a__elongation_profile.dat
+# nresidues = 591
+# Writing d1pkxa1_elongation_profile.dat
+# nresidues = 609
+# Writing d1vnsa__elongation_profile.dat
+# Polymer: ./output_input_ALL/d1jz8a5.dat
+# mu = -2.0
+# ndim = 3.0
+# kuhnlength = 2.0
+# dFdN = -0.075
+# dF = -76.8
+# Number of residues: 1024
+# Number of contacts: 2601
+Writing ./output_input_ALL/d1jz8a5._abs_energies.dat
+# nresidues = 755
+# Writing d2o9ca2_elongation_profile.dat
+# nresidues = 720
+# Writing d1iv8a1_elongation_profile.dat
+# nresidues = 644
+# Writing d2ix0a3_elongation_profile.dat
+# nresidues = 689
+# Writing d1omwa1_elongation_profile.dat
+# nresidues = 878
+# Writing d2hhva1_elongation_profile.dat
+# nresidues = 664
+# Writing d2r8oa2_elongation_profile.dat
+# nresidues = 787
+# Writing d1w7ca1_elongation_profile.dat
+# nresidues = 728
+# Writing d7reqb1_elongation_profile.dat
+# nresidues = 840
+# Writing d1kbla3_elongation_profile.dat
+# nresidues = 885
+# Writing d1qbaa1_elongation_profile.dat
+# nresidues = 1032
+# Writing d2vzsa4_elongation_profile.dat
+# nresidues = 1024
+# Writing d1jz8a5_elongation_profile.dat

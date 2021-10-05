@@ -1,0 +1,6866 @@
+>d1bi5a2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+370.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1mtza__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1xqua__elongation_profile.dat
+80.0,120.0
+>d1x91a__elongation_profile.dat
+100.0,120.0
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+90.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+100.0,130.0
+110.0,140.0
+#Not found
+#Not found
+120.0,150.0
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+150.0,180.0
+#Not found
+120.0,160.0
+140.0,180.0
+100.0,140.0
+120.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1exra__elongation_profile.dat
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2euca1_elongation_profile.dat
+#Not found
+80.0,120.0
+100.0,120.0
+20.0,60.0
+#Not found
+#Not found
+#Not found
+80.0,110.0
+90.0,120.0
+#Not found
+70.0,100.0
+#Not found
+40.0,80.0
+60.0,100.0
+#Not found
+>d1rqba1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,220.0
+200.0,220.0
+#Not found
+#Not found
+#Not found
+>d4ubpc1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+0.0,30.0
+10.0,40.0
+#Not found
+#Not found
+#Not found
+40.0,70.0
+#Not found
+#Not found
+#Not found
+#Not found
+20.0,60.0
+40.0,60.0
+#Not found
+20.0,50.0
+30.0,60.0
+>d1hyoa1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1ryla__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1sq9a__elongation_profile.dat
+100.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1qbaa1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+650.0,680.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+660.0,680.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d3khta__elongation_profile.dat
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d3c70a__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,240.0
+220.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,250.0
+230.0,260.0
+220.0,260.0
+240.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+210.0,240.0
+#Not found
+#Not found
+#Not found
+>d1sxjd1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+430.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+520.0,540.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+520.0,550.0
+#Not found
+>d1zara1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1kjna__elongation_profile.dat
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+110.0,140.0
+#Not found
+120.0,150.0
+130.0,160.0
+#Not found
+#Not found
+120.0,160.0
+140.0,160.0
+120.0,140.0
+120.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1smpi__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+380.0,420.0
+#Not found
+#Not found
+>d1qgva__elongation_profile.dat
+60.0,80.0
+60.0,100.0
+#Not found
+>d1o9ya__elongation_profile.dat
+#Not found
+#Not found
+>d3mmcb2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1omwa1_elongation_profile.dat
+#Not found
+#Not found
+160.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,350.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+610.0,640.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+260.0,300.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+240.0,280.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+70.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+620.0,650.0
+630.0,660.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+620.0,660.0
+640.0,660.0
+#Not found
+#Not found
+#Not found
+190.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,100.0
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+250.0,280.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+640.0,670.0
+80.0,110.0
+90.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+600.0,640.0
+#Not found
+#Not found
+#Not found
+150.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,230.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2a5yb1_elongation_profile.dat
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+170.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+110.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+220.0,240.0
+#Not found
+#Not found
+200.0,230.0
+210.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d7reqb1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d3eipa__elongation_profile.dat
+20.0,40.0
+#Not found
+#Not found
+10.0,40.0
+#Not found
+#Not found
+#Not found
+50.0,80.0
+#Not found
+20.0,60.0
+40.0,80.0
+#Not found
+20.0,50.0
+#Not found
+#Not found
+>d1vj1a1_elongation_profile.dat
+100.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+90.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+280.0,300.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+270.0,300.0
+100.0,130.0
+#Not found
+#Not found
+80.0,120.0
+#Not found
+#Not found
+#Not found
+220.0,260.0
+#Not found
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d3aaac__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2ri9a__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+430.0,460.0
+#Not found
+#Not found
+440.0,460.0
+440.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,470.0
+450.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,480.0
+460.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+460.0,490.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+460.0,500.0
+480.0,520.0
+#Not found
+#Not found
+#Not found
+>d3f1la__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+>d2ccma__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,180.0
+160.0,200.0
+#Not found
+#Not found
+140.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1guda__elongation_profile.dat
+200.0,240.0
+220.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d1l0oc__elongation_profile.dat
+100.0,140.0
+#Not found
+>d1pgva__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,350.0
+330.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,370.0
+350.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,380.0
+360.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+310.0,340.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,390.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,340.0
+320.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1mppa__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+390.0,420.0
+170.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,420.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,430.0
+180.0,200.0
+180.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,210.0
+190.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,220.0
+200.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,230.0
+#Not found
+>d1kbla3_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+260.0,290.0
+270.0,300.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,350.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,520.0
+500.0,520.0
+220.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+260.0,300.0
+280.0,300.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+500.0,530.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+460.0,500.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+470.0,500.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+500.0,540.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+310.0,340.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,500.0
+480.0,520.0
+#Not found
+#Not found
+#Not found
+320.0,340.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,510.0
+490.0,520.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1lkoa2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+110.0,140.0
+#Not found
+120.0,150.0
+40.0,70.0
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,140.0
+40.0,60.0
+#Not found
+>d1oywa3_elongation_profile.dat
+20.0,60.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d3bgea1_elongation_profile.dat
+#Not found
+#Not found
+300.0,340.0
+320.0,340.0
+320.0,360.0
+#Not found
+#Not found
+300.0,330.0
+310.0,340.0
+#Not found
+>d2g50a1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1c0pa2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,360.0
+340.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,370.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+300.0,340.0
+#Not found
+#Not found
+#Not found
+310.0,340.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,340.0
+320.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1t3qc2_elongation_profile.dat
+20.0,60.0
+40.0,80.0
+#Not found
+#Not found
+20.0,50.0
+#Not found
+#Not found
+#Not found
+>d1g40a1_elongation_profile.dat
+#Not found
+#Not found
+80.0,120.0
+100.0,120.0
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+100.0,130.0
+110.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+40.0,70.0
+50.0,80.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,260.0
+40.0,80.0
+60.0,80.0
+60.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+230.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+240.0,260.0
+#Not found
+#Not found
+#Not found
+100.0,140.0
+120.0,140.0
+#Not found
+20.0,60.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,90.0
+70.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,150.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,160.0
+#Not found
+30.0,60.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,110.0
+90.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+40.0,60.0
+40.0,80.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d1j1ba__elongation_profile.dat
+#Not found
+80.0,120.0
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+170.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,110.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+110.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,150.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,260.0
+60.0,80.0
+60.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,220.0
+200.0,240.0
+#Not found
+#Not found
+#Not found
+180.0,200.0
+#Not found
+>d2bcma__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,160.0
+#Not found
+>d2bpa2__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+190.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,230.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2c5sa1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1ox0a2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+380.0,410.0
+390.0,420.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+370.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+380.0,400.0
+380.0,420.0
+>d2r8oa2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+580.0,620.0
+600.0,620.0
+600.0,640.0
+#Not found
+#Not found
+#Not found
+580.0,600.0
+580.0,620.0
+#Not found
+#Not found
+#Not found
+#Not found
+570.0,600.0
+#Not found
+#Not found
+>d1u5pa1_elongation_profile.dat
+0.0,40.0
+>d3rnqa__elongation_profile.dat
+#Not found
+140.0,170.0
+#Not found
+140.0,180.0
+120.0,160.0
+140.0,160.0
+#Not found
+#Not found
+>d1hh2p4_elongation_profile.dat
+#Not found
+#Not found
+180.0,210.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,200.0
+180.0,200.0
+#Not found
+#Not found
+>d2uxqa__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+280.0,300.0
+280.0,320.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+280.0,310.0
+290.0,320.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+240.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,370.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+300.0,330.0
+#Not found
+240.0,270.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2hzqa__elongation_profile.dat
+#Not found
+>d2b1xb1_elongation_profile.dat
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,110.0
+#Not found
+#Not found
+#Not found
+340.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+410.0,440.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2yzha__elongation_profile.dat
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+110.0,140.0
+#Not found
+120.0,150.0
+130.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+140.0,170.0
+120.0,160.0
+140.0,160.0
+120.0,140.0
+120.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d3bexa2_elongation_profile.dat
+#Not found
+#Not found
+190.0,220.0
+#Not found
+#Not found
+140.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1cv8a__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1pb7a__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+490.0,520.0
+#Not found
+#Not found
+#Not found
+>d1w7ca1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+700.0,730.0
+#Not found
+#Not found
+#Not found
+#Not found
+700.0,740.0
+720.0,760.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,520.0
+500.0,540.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+730.0,760.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+740.0,760.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+510.0,540.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+690.0,720.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+470.0,500.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+350.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+740.0,770.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+700.0,720.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+520.0,550.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,390.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+520.0,560.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+740.0,780.0
+#Not found
+480.0,500.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,510.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d3bjva__elongation_profile.dat
+100.0,120.0
+100.0,140.0
+#Not found
+#Not found
+90.0,120.0
+#Not found
+#Not found
+#Not found
+100.0,130.0
+110.0,140.0
+#Not found
+120.0,150.0
+#Not found
+#Not found
+80.0,120.0
+#Not found
+#Not found
+120.0,160.0
+#Not found
+#Not found
+>d1j6ua3_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,450.0
+430.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+230.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1m4ua__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+>d2bmoa1_elongation_profile.dat
+#Not found
+340.0,370.0
+350.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,360.0
+340.0,360.0
+340.0,380.0
+#Not found
+#Not found
+320.0,340.0
+320.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,440.0
+420.0,440.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,430.0
+410.0,440.0
+310.0,340.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1kwma2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,380.0
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1ig8a2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,450.0
+430.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2bzva__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,380.0
+#Not found
+230.0,260.0
+#Not found
+#Not found
+240.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+350.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,380.0
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+240.0,270.0
+#Not found
+#Not found
+#Not found
+360.0,390.0
+370.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2i5fa__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2ix0a3_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+>d1vnsa__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+430.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,520.0
+500.0,520.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+540.0,580.0
+560.0,580.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+500.0,530.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+500.0,540.0
+520.0,560.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+530.0,560.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,510.0
+490.0,520.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+540.0,570.0
+550.0,580.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1i5za1_elongation_profile.dat
+#Not found
+#Not found
+>d1z6ba1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+#Not found
+#Not found
+#Not found
+210.0,240.0
+#Not found
+>d1lj9a__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1m2tb1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,450.0
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,520.0
+500.0,540.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,440.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+510.0,540.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+460.0,500.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+470.0,500.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+520.0,540.0
+520.0,560.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+520.0,550.0
+530.0,560.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+520.0,560.0
+540.0,560.0
+540.0,580.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,500.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+480.0,510.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1knxa2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+260.0,300.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+260.0,290.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1rh6a__elongation_profile.dat
+20.0,60.0
+#Not found
+#Not found
+#Not found
+40.0,70.0
+40.0,60.0
+30.0,60.0
+>d2bi0a2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+320.0,340.0
+#Not found
+#Not found
+#Not found
+310.0,340.0
+#Not found
+#Not found
+>d2aeba__elongation_profile.dat
+250.0,280.0
+#Not found
+#Not found
+#Not found
+260.0,300.0
+280.0,320.0
+#Not found
+290.0,320.0
+260.0,280.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1zt2b1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1sena__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+90.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1ccza1_elongation_profile.dat
+#Not found
+100.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+90.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+50.0,80.0
+#Not found
+60.0,100.0
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+100.0,140.0
+60.0,80.0
+#Not found
+40.0,80.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2f7fa2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+450.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,460.0
+440.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1tjva__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+240.0,270.0
+250.0,280.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,370.0
+350.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,390.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,360.0
+340.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+50.0,80.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+40.0,80.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,400.0
+>d1f00i3_elongation_profile.dat
+710.0,740.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+720.0,740.0
+720.0,760.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+780.0,820.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+900.0,940.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+820.0,860.0
+840.0,860.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+840.0,870.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+800.0,820.0
+800.0,840.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+920.0,940.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+740.0,770.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+800.0,830.0
+810.0,840.0
+#Not found
+#Not found
+#Not found
+#Not found
+800.0,840.0
+820.0,840.0
+820.0,860.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+740.0,780.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d3sgha__elongation_profile.dat
+#Not found
+#Not found
+420.0,460.0
+440.0,460.0
+440.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,440.0
+#Not found
+#Not found
+#Not found
+220.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+410.0,440.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+350.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,390.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+490.0,520.0
+#Not found
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d3oaed__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,450.0
+430.0,460.0
+#Not found
+#Not found
+420.0,460.0
+440.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+380.0,410.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,470.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+380.0,420.0
+400.0,440.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+410.0,440.0
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+350.0,380.0
+#Not found
+#Not found
+#Not found
+360.0,380.0
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+420.0,440.0
+420.0,460.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,390.0
+370.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,400.0
+380.0,400.0
+#Not found
+#Not found
+>d1p65a__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+80.0,110.0
+50.0,80.0
+#Not found
+60.0,100.0
+80.0,100.0
+60.0,80.0
+60.0,100.0
+40.0,80.0
+#Not found
+#Not found
+#Not found
+>d1b77a1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,210.0
+190.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+150.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2vkva1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+170.0,200.0
+60.0,90.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,210.0
+#Not found
+#Not found
+#Not found
+#Not found
+130.0,160.0
+#Not found
+#Not found
+140.0,180.0
+160.0,200.0
+50.0,80.0
+#Not found
+#Not found
+60.0,100.0
+#Not found
+#Not found
+#Not found
+140.0,170.0
+#Not found
+#Not found
+140.0,160.0
+#Not found
+#Not found
+120.0,160.0
+#Not found
+40.0,80.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,200.0
+>d2iiza__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+280.0,310.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2phna__elongation_profile.dat
+#Not found
+160.0,180.0
+#Not found
+#Not found
+>d1n71a__elongation_profile.dat
+100.0,120.0
+#Not found
+90.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2wjnm__elongation_profile.dat
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+110.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+260.0,300.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2ooca1_elongation_profile.dat
+50.0,80.0
+#Not found
+>d1m3ua__elongation_profile.dat
+#Not found
+>d2e9xd1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,90.0
+70.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+100.0,130.0
+110.0,140.0
+#Not found
+#Not found
+#Not found
+120.0,150.0
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,100.0
+80.0,100.0
+80.0,120.0
+#Not found
+#Not found
+#Not found
+100.0,140.0
+120.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d1mg7a2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+280.0,320.0
+#Not found
+#Not found
+290.0,320.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+300.0,340.0
+320.0,340.0
+320.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2b8ea1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+660.0,700.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+660.0,690.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2b8ta2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+130.0,160.0
+#Not found
+#Not found
+#Not found
+140.0,170.0
+#Not found
+140.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d1pkxa1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+330.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+450.0,480.0
+#Not found
+#Not found
+#Not found
+170.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,360.0
+340.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+460.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,370.0
+350.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,380.0
+360.0,380.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+530.0,560.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,390.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+540.0,560.0
+540.0,580.0
+#Not found
+#Not found
+#Not found
+320.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+540.0,570.0
+550.0,580.0
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,400.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d2o9ca2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1tjya1_elongation_profile.dat
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+300.0,340.0
+#Not found
+200.0,230.0
+#Not found
+#Not found
+#Not found
+>d3ej9a__elongation_profile.dat
+#Not found
+#Not found
+>d3f4wa__elongation_profile.dat
+#Not found
+80.0,120.0
+100.0,120.0
+60.0,90.0
+70.0,100.0
+#Not found
+>d1viza__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2vb1a1_elongation_profile.dat
+#Not found
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d2blla1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+420.0,450.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,440.0
+420.0,440.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d2vzsa4_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,350.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,250.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+750.0,780.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+640.0,670.0
+650.0,680.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+320.0,340.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2bl8a1_elongation_profile.dat
+#Not found
+#Not found
+70.0,100.0
+#Not found
+#Not found
+80.0,100.0
+60.0,100.0
+#Not found
+#Not found
+>d1nhpa3_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,250.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1tzza1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1mlaa2_elongation_profile.dat
+#Not found
+250.0,280.0
+#Not found
+#Not found
+240.0,280.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1uk8a__elongation_profile.dat
+#Not found
+#Not found
+250.0,280.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+260.0,280.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+240.0,280.0
+#Not found
+120.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2cnza__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+140.0,170.0
+150.0,180.0
+140.0,160.0
+140.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1qkia2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1lwha2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,420.0
+400.0,440.0
+#Not found
+#Not found
+400.0,440.0
+420.0,440.0
+60.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+400.0,430.0
+410.0,440.0
+#Not found
+180.0,220.0
+#Not found
+#Not found
+#Not found
+#Not found
+380.0,420.0
+#Not found
+>d2rb6a1_elongation_profile.dat
+40.0,80.0
+#Not found
+#Not found
+>d2btoa2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,190.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,150.0
+130.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+140.0,170.0
+150.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,160.0
+140.0,160.0
+140.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2nn6h3_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+110.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+140.0,180.0
+160.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+170.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+10.0,40.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,200.0
+20.0,40.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,210.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,160.0
+140.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,220.0
+20.0,50.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+140.0,170.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+20.0,60.0
+#Not found
+#Not found
+#Not found
+>d2w21a__elongation_profile.dat
+120.0,150.0
+#Not found
+120.0,140.0
+#Not found
+>d1jz8a5_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+680.0,720.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+690.0,720.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1jqga2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+380.0,410.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+380.0,420.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+350.0,380.0
+#Not found
+#Not found
+360.0,380.0
+360.0,400.0
+#Not found
+#Not found
+#Not found
+80.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,390.0
+370.0,400.0
+80.0,110.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+360.0,400.0
+380.0,400.0
+>d1kbva1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+340.0,380.0
+#Not found
+320.0,350.0
+330.0,360.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2aeea1_elongation_profile.dat
+#Not found
+160.0,190.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+130.0,160.0
+#Not found
+#Not found
+140.0,180.0
+160.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1iv8a1_elongation_profile.dat
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+640.0,680.0
+660.0,680.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+560.0,580.0
+560.0,600.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+620.0,660.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+560.0,590.0
+570.0,600.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+690.0,720.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+630.0,660.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+70.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+640.0,660.0
+640.0,680.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+560.0,600.0
+580.0,600.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+580.0,610.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+700.0,720.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+640.0,670.0
+650.0,680.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,110.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+540.0,580.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+550.0,580.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1oa0a__elongation_profile.dat
+#Not found
+#Not found
+460.0,490.0
+470.0,500.0
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,470.0
+450.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,460.0
+440.0,480.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+440.0,480.0
+460.0,480.0
+460.0,500.0
+#Not found
+#Not found
+#Not found
+>d1mqea__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,90.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+180.0,210.0
+190.0,220.0
+60.0,100.0
+#Not found
+#Not found
+#Not found
+60.0,80.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2w43a__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,180.0
+160.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,190.0
+170.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,200.0
+180.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+140.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+150.0,180.0
+#Not found
+#Not found
+#Not found
+>d2yvla__elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+40.0,70.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,260.0
+40.0,80.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,190.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+230.0,260.0
+#Not found
+120.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,200.0
+#Not found
+20.0,60.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+130.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+140.0,160.0
+140.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+30.0,60.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+140.0,170.0
+150.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+40.0,60.0
+#Not found
+#Not found
+#Not found
+>d1rwta__elongation_profile.dat
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+110.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,240.0
+220.0,260.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,250.0
+230.0,260.0
+#Not found
+220.0,260.0
+240.0,260.0
+120.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,150.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+120.0,160.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+#Not found
+#Not found
+#Not found
+240.0,270.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+210.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+>d1t95a2_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1go3e1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+160.0,190.0
+#Not found
+#Not found
+#Not found
+#Not found
+60.0,90.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,180.0
+50.0,80.0
+#Not found
+60.0,100.0
+#Not found
+#Not found
+150.0,180.0
+#Not found
+140.0,180.0
+#Not found
+#Not found
+60.0,80.0
+#Not found
+>d2hhva1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+600.0,630.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+590.0,620.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+600.0,620.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1xy7a__elongation_profile.dat
+80.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+80.0,110.0
+#Not found
+70.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+130.0,160.0
+#Not found
+#Not found
+#Not found
+140.0,160.0
+60.0,100.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d2ez9a1_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,180.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+500.0,540.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+540.0,580.0
+160.0,190.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+510.0,540.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+160.0,200.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+520.0,560.0
+540.0,560.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+>d1vm6a3_elongation_profile.dat
+#Not found
+#Not found
+#Not found
+0.0,40.0
+#Not found
+#Not found
+>d3bqoa1_elongation_profile.dat
+80.0,120.0
+100.0,120.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+100.0,130.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+220.0,260.0
+240.0,260.0
+#Not found
+100.0,140.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+200.0,240.0
+#Not found
+#Not found
+#Not found
+#Not found
+240.0,270.0
+#Not found
+#Not found
+#Not found
+240.0,280.0
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+#Not found
+210.0,240.0
+#Not found

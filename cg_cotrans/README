@@ -1,0 +1,71 @@
+This software package performs the calculations described in the publication
+
+WM Jacobs and EI Shakhnovich (2017),
+``Evidence of evolutionary selection for cotranslational folding,''
+Proceedings of the National Academy of Sciences 114 (43), pp. 11434-11439.
+
+Package contents
+----------------
+Executable scripts for free-energy calculations:
+  calc_consensus_contacts.py
+  calc_absolute_energies.pyelec
+  calc_elongation.py
+
+Executable scripts for codon-usage calculations:
+  calc_codon_usage.py
+  calc_rare_enrichment.py
+  calc_profile_comparison.py
+
+Supporting files:
+  codons.py
+  fe.py
+  polymer.py
+  substructures.py
+
+Dependencies
+------------
+In addition to packages included in the standard Python distribution,
+this software package depends on the following Python packages:
+  numpy     [www.numpy.org]
+  scipy	    [www.scipy.org]
+  networkx  [networkx.github.io]
+  Bio	    [biopython.org]
+  prody	    [prody.csb.pitt.edu]
+
+The calc_consensus_contacts.py script also uses Clustal Omega [www.clustal.org/omega].
+It is assumed that this tool is installed in the usual place, i.e., /usr/bin/clustalo,
+although this path can be changed in the code.
+
+Usage
+-----
+These scripts were designed to be run with Python version 3+.
+The usage and options for all primary scripts can be found using the --help option, e.g.
+
+  python3 calc_consensus_contacts.py --help
+
+The default values for all optional arguments, shown in brackets in the help text,
+match those used in the main text of the publication.
+
+Example free-energy calculation
+-------------------------------
+Assuming that the files 1DDR.pdb.gz (downloaded from www.rcsb.org)
+and folA.fasta (downloaded, for example, from www.ecogene.org) are located in the
+current working directory, run:
+
+  python3 calc_consensus_contacts.py folA.fasta 1DDR
+  	  # Outputs polymer.dat
+  python3 calc_absolute_energies.py polymer.dat
+  	  # Outputs polymer_abs_energies.dat
+  python3 calc_elongation.py folA polymer_abs_energies.dat
+  	  # Outputs folA_elongation_profile.dat
+
+Codon-usage and rare-codon calculations
+---------------------------------------
+These scripts require input multiple-sequence alignment (MSA) fasta files, which
+can be created using standard tools such as Clustal Omega.  In addition, the protein
+abundances for the genes of interest are needed; one such reference is given in the
+publication.  The calc_codon_usage script should be run first to generate the
+genome-wide codon statistics.  The calc_enrichment_script should then be run once
+for each gene.  Finally, the profile-comparison script assumes that the
+elongation-profile and rare-codon-profile files have names like
+folA_elongation_profile.dat and folA_rc_profile.dat, where folA is a gene name.
