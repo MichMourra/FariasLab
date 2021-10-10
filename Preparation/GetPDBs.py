@@ -25,7 +25,7 @@ import argparse
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--InputFolder", help="Path to the folder that contains the elongation profile files")
+parser.add_argument("-i", "--InputFolder", help="Path to the folder that contains the nucleotide fastas")
 parser.add_argument("-o", "--OutputPath", help="Path to the folder that will contains the resulting files")
 parser.add_argument("-f", "--FastasPath", help="Path to the folder that will contains the fasta files")
 args = parser.parse_args()
