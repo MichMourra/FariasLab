@@ -42,7 +42,7 @@ This repository contains all the scripts and files necessary to find cotranslati
 
   ### **Files**
 
-  - [aa_to_nt.py](https://github.com/MichMourra/FariasLab/blob/main/Preparation/aa_to_nt.py) : This script has as purpose to download the entire sequence of peptides of interest proteins in fasta format, taking as input file a list that contains the protein id and the family number. This data was previously captured from SCOPe database by the SCOPeList.py script.
+  - [aa_to_nt.py](https://github.com/MichMourra/FariasLab/blob/main/Preparation/aa_to_nt.py) : This <span style="color: red;">script</span> has as purpose to download the entire sequence of peptides of interest proteins in fasta format, taking as input file a list that contains the protein id and the family number. This data was previously captured from SCOPe database by the SCOPeList.py script.
 
     **Arguments**
 
