@@ -1,10 +1,17 @@
 
 <p align="center">
-  <img src="https://scontent.fcvj5-1.fna.fbcdn.net/v/t1.6435-9/126787074_126739485894201_6763364814445598779_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jDA0jgQszkEAX-tym7C&_nc_ht=scontent.fcvj5-1.fna&oh=00_AT_JB8K0B1N_lGqaH8ondV34lJdfUJw21B_JESBESYrL5w&oe=621065E8" width="200px" height="200px"/></p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/200px-Escudo-UNAM-escalable.svg.png" width="200px" height="200px"/></p>
 
 # FariasLab
 
-This repository contains all the scripts and files necessary to find cotranslational sites that allow folding intermediates to form .
+This repository contains all the scripts and files necessary to find cotranslational sites that allow folding intermediates to form. To learn more about the work carried out in the laboratory, you can consult the following link: https://www.fariaslab.org/
+
+<p align="center">
+  <img src="https://scontent.fcvj5-1.fna.fbcdn.net/v/t1.6435-9/126787074_126739485894201_6763364814445598779_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jDA0jgQszkEAX-tym7C&_nc_ht=scontent.fcvj5-1.fna&oh=00_AT_JB8K0B1N_lGqaH8ondV34lJdfUJw21B_JESBESYrL5w&oe=621065E8" width="200px" height="200px"/></p>
+
+## Folder execution order
+
+:file_folder: Extraction    :arrow_right:    :file_folder: Preparation     :arrow_right:    :file_folder:Execution    :arrow_right:   :file_folder: Discovery 
 
 ## Order of execution of the programs
 
@@ -45,6 +52,9 @@ This repository contains all the scripts and files necessary to find cotranslati
     ```diff
     + python3 ProtList.py -i ./ScopDatabaseFile.txt -o ScopeNewList.txt
     ```
+ <p align="center">
+  <img src="https://www.creative-diagnostics.com/images/Notch-Family-2.jpg" width="250px" height="150px"/></p>   
+  
 ---------------------   
  
   - [**ScopeNewList.txt**](https://github.com/MichMourra/FariasLab/blob/main/Extraction/ScopeNewList.txt) :page_facing_up: : Output file from ProtList.py , this file is a list that contains the protein id and the family id. This file serves as the input file to the aa_to_nt.py script
@@ -78,10 +88,19 @@ This repository contains all the scripts and files necessary to find cotranslati
    ```diff
    - python3 aa_to_nt.py --inputPath ../Extraction --outputPath . --listNameFile ScopeNewList.txt --cut FALSE
    ```
-    
+  
+  
+  <p align="center">
+  <img src="https://www.ebi.ac.uk/ena/browser/assets/ENA_logo_2021.png" width="250px" height="100px"/></p>
+
+  
 ---------------------
    
   - [**DownloadFastas.py**](https://github.com/MichMourra/FariasLab/blob/main/Preparation/DownloadFastas.py) :white_check_mark: : This script is able to download the fasta files using the EMBL ids extracted from the ENA file. With this ids we can get the nucleotide sequence using the entrez and then we save this data into a fasta file of the protein.
+
+   ```diff
+   + This program currently replaces the downloads made by the previous script (aa-to-nt.py).
+   ```
 
 **Arguments**
 
@@ -146,6 +165,12 @@ This repository contains all the scripts and files necessary to find cotranslati
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/245px-Google_Chrome_icon_%28September_2014%29.svg.png" width="150px" height="150px"/></p>
+ 
+ ---------------------
+  
+  - [**ENA.txt**](https://github.com/MichMourra/FariasLab/tree/main/Preparation/ENA.txt) :page_facing_up: :
+
+    This file contains all the data for each protein and its cross-references with other databases such as Uniprot or EMBL. Each of the respective fields is separated into tabular columns.
 
 ---------------------
 
@@ -155,9 +180,17 @@ This repository contains all the scripts and files necessary to find cotranslati
     
 ---------------------
 
+  - [**SCOPeFastas**](https://github.com/MichMourra/FariasLab/tree/main/Preparation/SCOPeFastas) :file_folder: :
+
+     This folder contains al the fasta files with the nucleotide sequence previously downloaded by the script DownloadFastas.py.
+
+---------------------
+
 - ## Execution
 
   The files in this folder aims to execute the MinMax.py and AutomaticSaknovich.sh this in order to obtain the translational properties of each protein, properties like: rare codon frequency, native contact in the proteins, stabilizing energies of the protein and elongation rate of the protein.
+  
+  
 
   ### Files
   
@@ -200,8 +233,8 @@ This repository contains all the scripts and files necessary to find cotranslati
     ```
     **Input folders**
 
-    - [input_fastas_calc_consensus](https://github.com/MichMourra/FariasLab/tree/main/cg_cotrans/input_fastas_calc_consensus) :file_folder: : This folder contains the fastas with the nucleotide sequence for each protein, this are the same fastas that we get by using the aa_to_nt.py program.
-    - [input_pdbs_calc_consensus](https://github.com/MichMourra/FariasLab/tree/main/cg_cotrans/input_pdbs_calc_consensus) :file_folder: : This folder contains the pdbs of each protein, this are the same pdbs that we get by using the GetPDBs.py program.
+    - [**input_fastas_calc_consensus**](https://github.com/MichMourra/FariasLab/tree/main/cg_cotrans/input_fastas_calc_consensus) :file_folder: : This folder contains the fastas with the nucleotide sequence for each protein, this are the same fastas that we get by using the aa_to_nt.py program.
+    - [**input_pdbs_calc_consensus**](https://github.com/MichMourra/FariasLab/tree/main/cg_cotrans/input_pdbs_calc_consensus) :file_folder: : This folder contains the pdbs of each protein, this are the same pdbs that we get by using the GetPDBs.py program.
 
     **Scripts executed by AutomaticSaknovich**
 
@@ -253,3 +286,7 @@ This repository contains all the scripts and files necessary to find cotranslati
     **Output**
 
     - [**CoTranslate**](https://github.com/MichMourra/FariasLab/tree/main/Discovery/CoTranslate) :file_folder: : This folder contains the folders with the reviewed input files, the text file with each cotranslational site found it by the program and a durectory for each protein within graphics of ech cotranslational site.
+
+<p align="center">
+  <img src="https://www.ucl.ac.uk/biosciences/sites/biosciences/files/styles/medium_image/public/cartoon-overview.png?itok=4IamI2sR" width="300px" height="200px"/></p>
+
