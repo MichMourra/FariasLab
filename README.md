@@ -1,4 +1,9 @@
+
+<p align="center">
+  <img src="https://scontent.fcvj5-1.fna.fbcdn.net/v/t1.6435-9/126787074_126739485894201_6763364814445598779_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jDA0jgQszkEAX-tym7C&_nc_ht=scontent.fcvj5-1.fna&oh=00_AT_JB8K0B1N_lGqaH8ondV34lJdfUJw21B_JESBESYrL5w&oe=621065E8" width="200px" height="200px"/></p>
+
 # FariasLab :microscope:
+
 This repository contains all the scripts and files necessary to find cotranslational sites that allow folding intermediates to form .
 
 ## Order of execution of the programs
@@ -109,6 +114,10 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     - https://chromedriver.chromium.org/downloads
 
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/245px-Google_Chrome_icon_%28September_2014%29.svg.png" width="150px" height="150px"/></p>
+
 ---------------------
 
   - [**descargas**](https://github.com/MichMourra/FariasLab/tree/main/Preparation/descargas) :file_folder: : 
@@ -204,9 +213,9 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     **Arguments**
 
-    - ElongationFolder: Path to the folder that contains the elongation profile files
-    - MinMaxFolder: Path to the folder that contains the elongation profile files
-    - OutputFolder: Path to the folder that will contains the resulting files
+    - **ElongationFolder**: Path to the folder that contains the elongation profile files
+    - **MinMaxFolder**: Path to the folder that contains the elongation profile files
+    - **OutputFolder**: Path to the folder that will contains the resulting files
 
     **How to run**
     ```diff
