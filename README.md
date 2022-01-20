@@ -18,8 +18,12 @@ This repository contains all the scripts and files necessary to find cotranslati
   This folder aims to extract from the SCOPe database, the proteins that we will use to run the analysis.
 
   ### **Files:**
+  
+   ---------------------
 
   - [ScopDatabaseFile.txt](https://github.com/MichMourra/FariasLab/blob/main/Extraction/ScopDatabaseFile.txt) : This file contains all the proteins information like: Protein identifier, family number and polypeptide sequence.
+
+   ---------------------
 
   - [ProtList.py](https://github.com/MichMourra/FariasLab/blob/main/Extraction/ProtList.py) : This script has the objective to generate a list file that will contains the protein id and family number taking as arguments a fasta file with the protein data from SCOPe.
 
@@ -29,10 +33,14 @@ This repository contains all the scripts and files necessary to find cotranslati
     - **outputfile**: The path to the new list file
 
     **How to run**
-
-    - python3 ProtList.py -i ./ScopDatabaseFile.txt -o ScopeNewList.txt
-
+    ```diff
+    + python3 ProtList.py -i ./ScopDatabaseFile.txt -o ScopeNewList.txt
+    ```
+   ---------------------   
+ 
   - [ScopeNewList.txt](https://github.com/MichMourra/FariasLab/blob/main/Extraction/ScopeNewList.txt) : Output file from ProtList.py , this file is a list that contains the protein id and the family id. This file serves as the input file to the aa_to_nt.py script
+
+   ---------------------
 
 - ## Preparation
 
@@ -69,9 +77,9 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     **Arguments**
 
-    - InputFolder: Path to the folder that contains the nucleotide fastas
-    - OutputPath: Path to the folder that will contains the resulting files
-    - FastasPath: Path to the folder that will contains the fasta files to necesarry to run AutomaticSaknovich.sh
+    - **InputFolder**: Path to the folder that contains the nucleotide fastas
+    - **OutputPath**: Path to the folder that will contains the resulting files
+    - **FastasPath**: Path to the folder that will contains the fasta files to necesarry to run AutomaticSaknovich.sh
 
     **How to run**
     
@@ -81,7 +89,7 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     **Output**
 
-    - descargas: This folder will contain the nucleotide fastas
+    - **descargas**: This folder will contain the nucleotide fastas
 
    ---------------------
 
