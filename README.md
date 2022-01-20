@@ -120,7 +120,8 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     **Output**
 
-    - **descargas**: This folder will contain the nucleotide fastas
+    - **descargas**: This folder will contain the nucleotide fastas.
+    - **input_pdbs_calc_consensus**: This folder will contain all the PDB files that are necessary for the execution of the automatic saknovich program.
 
 <p align="center">
   <img src="https://cdn.rcsb.org/rcsb-pdb/v2/common/images/rcsb_logo.png" width="250px" height="100px"/></p>
@@ -150,7 +151,7 @@ This repository contains all the scripts and files necessary to find cotranslati
 
   - [**descargas**](https://github.com/MichMourra/FariasLab/tree/main/Preparation/descargas) :file_folder: : 
 
-    This folder contains the fasta files resulting from aa_to_nt.py program
+    This folder contains the fasta files resulting from aa_to_nt.py program.
     
 ---------------------
 
