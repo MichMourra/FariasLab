@@ -28,6 +28,10 @@ This repository contains all the scripts and files necessary to find cotranslati
 - ## Extraction
 
   This folder aims to extract from the SCOPe database, the proteins that we will use to run the analysis.
+  
+  <p align="center">
+  <img src="https://cdn-icons.flaticon.com/png/512/2098/premium/2098398.png?token=exp=1642706779~hmac=11d499d73fa59fca6705e3fa21206c5f" width="200px" height="200px"/></p>
+  
 
   ### **Files:**
   
@@ -64,6 +68,9 @@ This repository contains all the scripts and files necessary to find cotranslati
 - ## Preparation
 
   The files in this folder aims to download the fasta and pdb files necessary for execute the programs to quantify the translational properties for each protein : **MinMax.py** and **AutomaticSaknovich.sh**
+  
+  <p align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/09/27/22/28/text-mining-icon-2793702_960_720.png" width="200px" height="200px"/></p>
 
   ### **Files**
 ---------------------
@@ -188,8 +195,10 @@ This repository contains all the scripts and files necessary to find cotranslati
 
 - ## Execution
 
-  The files in this folder aims to execute the MinMax.py and AutomaticSaknovich.sh this in order to obtain the translational properties of each protein, properties like: rare codon frequency, native contact in the proteins, stabilizing energies of the protein and elongation rate of the protein.
+  The files in this folder aims to execute the **MinMax.py** and **AutomaticSaknovich.sh** this in order to obtain the translational properties of each protein, properties like: rare codon frequency, native contact in the proteins, stabilizing energies of the protein and elongation rate of the protein.
   
+ <p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/739/739340.png" width="200px" height="200px"/></p>
   
 
   ### Files
@@ -251,6 +260,9 @@ This repository contains all the scripts and files necessary to find cotranslati
 - ## Discovery
 
   This folder contains the files necessary to find the cotranslational site of each protein by using the data produced by the previous programs.
+  
+   <p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1754/1754171.png" width="200px" height="200px"/></p>
 
   ### Files
   
