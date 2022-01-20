@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://scontent.fcvj5-1.fna.fbcdn.net/v/t1.6435-9/126787074_126739485894201_6763364814445598779_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jDA0jgQszkEAX-tym7C&_nc_ht=scontent.fcvj5-1.fna&oh=00_AT_JB8K0B1N_lGqaH8ondV34lJdfUJw21B_JESBESYrL5w&oe=621065E8" width="200px" height="200px"/></p>
 
-# FariasLab :microscope:
+# FariasLab
 
 This repository contains all the scripts and files necessary to find cotranslational sites that allow folding intermediates to form .
 
@@ -81,7 +81,26 @@ This repository contains all the scripts and files necessary to find cotranslati
     
 ---------------------
    
-  - [**DownloadFastas.py**](https://github.com/MichMourra/FariasLab/blob/main/Preparation/DownloadFastas.py) :white_check_mark: : This script is able to download the fasta files using the EMBL ids extracted from the ENA file.
+  - [**DownloadFastas.py**](https://github.com/MichMourra/FariasLab/blob/main/Preparation/DownloadFastas.py) :white_check_mark: : This script is able to download the fasta files using the EMBL ids extracted from the ENA file. With this ids we can get the nucleotide sequence using the entrez and then we save this data into a fasta file of the protein.
+
+**Arguments**
+
+ - **InputFilePath**: Path to the file that contains the ENA proteins data.
+ - **OutputFolder**: Path to the folder that will contains the resulting files.
+ - **Email**: Path to the folder that contains the elongation profile files.
+
+**How to run**
+```diff
++ ./DownoloadFastas.py -I ./ENA.txt -O "./SCOPeFastas/" -E cmourra@lcg.unam.mx
+```
+<p align="center">
+  <img src="https://scop.mrc-lmb.cam.ac.uk/static/media/scop_logo.358e74fa.png" width="250px" height="100px"/></p>
+  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Uniprot.gif/245px-Uniprot.gif" width="250px" height="100px"/></p>
+  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/EMBL_logo.svg/240px-EMBL_logo.svg.png" width="250px" height="100px"/></p>
 
 ---------------------
 
@@ -103,6 +122,9 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     - **descargas**: This folder will contain the nucleotide fastas
 
+<p align="center">
+  <img src="https://cdn.rcsb.org/rcsb-pdb/v2/common/images/rcsb_logo.png" width="250px" height="100px"/></p>
+
 ---------------------
 
   - [**chromedriver**](https://github.com/MichMourra/FariasLab/blob/main/Preparation/chromedriver) :x: : This is the google chrome driver used by selenium to do the fastas search. If there is an error with the driver this could be caused by two things:
@@ -113,6 +135,12 @@ This repository contains all the scripts and files necessary to find cotranslati
     In either case, you can download the chromedriver you need from the following URL:
 
     - https://chromedriver.chromium.org/downloads
+
+
+   ```diff
+   - This driver is used by the aa-to-nt.py script. 
+   - But since that program is currently no longer used, the driver is unnecessary in the new DownloadFastas.py program. 
+   ```
 
 
 <p align="center">
