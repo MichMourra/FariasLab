@@ -13,8 +13,6 @@ This repository contains all the scripts and files necessary to find cotranslati
 
 # Folders
 
-
-
 - ## Extraction
 
   This folder aims to extract from the SCOPe database, the proteins that we will use to run the analysis.
@@ -27,8 +25,8 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     **Arguments**
 
-    - inputfile: The file path to the SCOPe database file
-    - outputfile: The path to the new list file
+    - **inputfile**: The file path to the SCOPe database file
+    - **outputfile**: The path to the new list file
 
     **How to run**
 
@@ -41,19 +39,31 @@ This repository contains all the scripts and files necessary to find cotranslati
   The files in this folder aims to download the fasta and pdb files necessary for execute the programs to quantify the translational properties for each protein : **MinMax.py** and **AutomaticSaknovich.sh**
 
   ### **Files**
+  ---------------------
 
-  - [aa_to_nt.py](https://github.com/MichMourra/FariasLab/blob/main/Preparation/aa_to_nt.py) : This <span style="color: red;">script</span> has as purpose to download the entire sequence of peptides of interest proteins in fasta format, taking as input file a list that contains the protein id and the family number. This data was previously captured from SCOPe database by the SCOPeList.py script.
+  - [aa_to_nt.py](https://github.com/MichMourra/FariasLab/blob/main/Preparation/aa_to_nt.py) :exclamation: : This script has as purpose to download the entire sequence of peptides of interest proteins in fasta format, taking as input file a list that contains the protein id and the family number. This data was previously captured from SCOPe database by the SCOPeList.py script.
+
+   ```diff
+   - This program has been officially deprecated due to changes in the html base of the scope database portal. 
+   - However we keep the script for a possible future update
+   ```
 
     **Arguments**
 
-    - inputPath: Path to read the input file (list)
-    - outputPath: Path to place the folders with all the downloaded data and error lists
-    - listNameFile: Name of the file with the name of all the data to download
-    - cut: If it is equal to "TRUE", only the part of the ENA sequence that corresponds to the Scope sequence is taken, otherwise (FALSE), the complete sequence provided by it will be taken.
+    - **inputPath**: Path to read the input file (list)
+    - **outputPath**: Path to place the folders with all the downloaded data and error lists
+    - **listNameFile**: Name of the file with the name of all the data to download
+    - **cut**: If it is equal to "TRUE", only the part of the ENA sequence that corresponds to the Scope sequence is taken, otherwise (FALSE), the complete sequence provided by it will be taken.
 
-    **How to run**
+    **How to run** :exclamation:
+    ```diff
+    - python3 aa_to_nt.py --inputPath ../Extraction --outputPath . --listNameFile ScopeNewList.txt --cut FALSE
+    ```
+   ---------------------
+   
+  - [DownloadFastas.py](https://github.com/MichMourra/FariasLab/blob/main/Preparation/DownloadFastas.py) : This script is able to download the fasta files using the EMBL ids extracted from the ENA file.
 
-    python3 aa_to_nt.py --inputPath ../Extraction --outputPath . --listNameFile ScopeNewList.txt --cut FALSE
+   ---------------------
 
   - [GetPDBs.py](https://github.com/MichMourra/FariasLab/blob/main/Preparation/GetPDBs.py) : This script is able to download the PDB files from uniprot database by establishing a programmatic access. Takes as argument the folder path that contains all the fasta files resulting from aa-to-nt.py.
 
@@ -64,12 +74,16 @@ This repository contains all the scripts and files necessary to find cotranslati
     - FastasPath: Path to the folder that will contains the fasta files to necesarry to run AutomaticSaknovich.sh
 
     **How to run**
-
-    - python3 ./GetPDBs.py -i ./descargas -o ../cg_cotrans/input_pdbs_calc_consensus/ -f ../cg_cotrans/input_fastas_calc_consensus/
+    
+    ```diff
+    + python3 ./GetPDBs.py -i ./descargas -o ../cg_cotrans/input_pdbs_calc_consensus/ -f ../cg_cotrans/input_fastas_calc_consensus/
+    ```
 
     **Output**
 
     - descargas: This folder will contain the nucleotide fastas
+
+   ---------------------
 
   - [chromedriver](https://github.com/MichMourra/FariasLab/blob/main/Preparation/chromedriver) : This is the google chrome driver used by selenium to do the fastas search. If there is an error with the driver this could be caused by two things:
 
@@ -80,15 +94,21 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     - https://chromedriver.chromium.org/downloads
 
+   ---------------------
+
   - [descargas](https://github.com/MichMourra/FariasLab/tree/main/Preparation/descargas) : 
 
     This folder contains the fasta files resulting from aa_to_nt.py program
+    
+   ---------------------
 
 - ## Execution
 
   The files in this folder aims to execute the MinMax.py and AutomaticSaknovich.sh this in order to obtain the translational properties of each protein, properties like: rare codon frequency, native contact in the proteins, stabilizing energies of the protein and elongation rate of the protein.
 
   ### Files
+  
+  ---------------------
 
   - [MinMax.py](https://github.com/MichMourra/FariasLab/blob/main/Execution/MinMax.py) : This script has the task of evaluating the relative usage frequencies of the synonymous codons used to encode a protein sequence of interest and compares these results to a rigorous null model. MinMax.py takes as argument the folder path that contains all the fasta files resulting from aa-to-nt.py. 
 
@@ -98,27 +118,33 @@ This repository contains all the scripts and files necessary to find cotranslati
     - outputPath: Path to place the folder with all the generated figures.
 
     **How to run**
-
-    - python3 MinMax.py --inputFolderPath ../Preparation/descargas --outputPath .
-
+    ```diff
+    + python3 MinMax.py --inputFolderPath ../Preparation/descargas --outputPath .
+    ```
     **Output**
 
     - figuras: Thi folder will contains the resulting files by execute the MinMax.py program
 
+---------------------
+
   - [figuras](https://github.com/MichMourra/FariasLab/tree/main/Execution/figuras) : This folder contains the csv files that has the rare codon frequency for each site of the protein and also has the graphics to see more easily the areas enriched with rare codons.
+
+---------------------
 
 - ## cg_cotrans
 
   This folder contains all the scripts and data necessary for execute the AutomaticSaknovich.sh program.
 
   ### Files
+  
+  ---------------------
 
   - [Automatic_Saknovich.sh](https://github.com/MichMourra/FariasLab/blob/main/cg_cotrans/Automatic_Saknovich.sh) : This bash script has the task of calling another python scripts to calculate three properties including the native contacts within a protein, the stabilizing energies per codon and the elongation rate during translation in the given protein sequences. This program take as first argument a folder path that contains all the fasta files resulting from aa-to-nt.py and as second argument a folder path with all the PDB files resulting from getPDBs.py.
 
     **How to run**
-
-    - ./AutomaticSaknovich.sh
-
+    ```diff
+    + ./AutomaticSaknovich.sh
+    ```
     **Input folders**
 
     - [input_fastas_calc_consensus](https://github.com/MichMourra/FariasLab/tree/main/cg_cotrans/input_fastas_calc_consensus) : This folder contains the fastas with the nucleotide sequence for each protein, this are the same fastas that we get by using the aa_to_nt.py program.
@@ -134,11 +160,15 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     - [output_input_ALL](https://github.com/MichMourra/FariasLab/tree/main/cg_cotrans/output_input_ALL) : This folder contains all the files produced by calculations made by AutomaticSaknovich.sh program.
 
+---------------------
+
 - ## Discovery
 
   This folder contains the files necessary to find the cotranslational site of each protein by using the data produced by the previous programs.
 
   ### Files
+  
+  ---------------------
 
   - [CoTransFiles.sh](https://github.com/MichMourra/FariasLab/blob/main/Discovery/CoTransFiles.sh) : This bash script has of purpose that the elongation rate and MinMax files are of the same proteins and are in the same proportion. This program also create a folder where the reviewed files will be located.
 
@@ -150,8 +180,10 @@ This repository contains all the scripts and files necessary to find cotranslati
     - PythonScript: The path where the CoTransSites.py script is located
 
     **How to run**
-
-    - ./CoTransFiles.sh ./output_input_ALL ./figuras ./CoTranslate ./CoTransSites.py
+    ```diff
+    + ./CoTransFiles.sh ./output_input_ALL ./figuras ./CoTranslate ./CoTransSites.py
+    ```
+---------------------
 
   - [CoTransSites.py](https://github.com/MichMourra/FariasLab/blob/main/Discovery/CoTransSites.py) : This python script has the purpose of finding the cotranslational sites by using the elongation and MinMax files obtained by running the MinMax.py and AutomaticSaknovich.sh programs.
 
@@ -162,9 +194,9 @@ This repository contains all the scripts and files necessary to find cotranslati
     - OutputFolder: Path to the folder that will contains the resulting files
 
     **How to run**
-
-    - python3 ./CoTransSites.py -E ./output_input_ALL -M ./figuras -O ./CoTrans
-
+    ```diff
+    + python3 ./CoTransSites.py -E ./output_input_ALL -M ./figuras -O ./CoTrans
+    ```
     **Output**
 
     - [CoTranslate](https://github.com/MichMourra/FariasLab/tree/main/Discovery/CoTranslate) : This folder contains the folders with the reviewed input files, the text file with each cotranslational site found it by the program and a durectory for each protein within graphics of ech cotranslational site.
