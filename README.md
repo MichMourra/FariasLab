@@ -220,6 +220,11 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     - **figuras**: Thi folder will contains the resulting files by execute the MinMax.py program
 
+
+### Consult official work
+
+  - [Patricia Clarke's work](https://pubmed.ncbi.nlm.nih.gov/29090506/)
+
 ---------------------
 
   - [**figuras**](https://github.com/MichMourra/FariasLab/tree/main/Execution/figuras) :file_folder: : This folder contains the csv files that has the rare codon frequency for each site of the protein and also has the graphics to see more easily the areas enriched with rare codons.
