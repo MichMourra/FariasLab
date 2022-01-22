@@ -255,6 +255,10 @@ This repository contains all the scripts and files necessary to find cotranslati
 
     - [**output_input_ALL**](https://github.com/MichMourra/FariasLab/tree/main/cg_cotrans/output_input_ALL) :file_folder: : This folder contains all the files produced by calculations made by AutomaticSaknovich.sh program.
 
+### Consult official work
+
+ - [Eugene Saknovich work](https://faculty.chemistry.harvard.edu/shakhnovich/software)
+
 ---------------------
 
 - ## Discovery
